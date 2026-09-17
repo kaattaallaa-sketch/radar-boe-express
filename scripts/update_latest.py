@@ -1,17 +1,51 @@
 import html
 import json
 import re
+import time
 from datetime import datetime, timedelta
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
 import requests
+from requests.adapters import HTTPAdapter
+from urllib3.util import Retry
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA_DIR = ROOT / "data"
 TZ = ZoneInfo("Europe/Madrid")
 HEADERS = {"Accept": "application/json", "User-Agent": "Radar-BOE-Express/1.0"}
 API = "https://www.boe.es/datosabiertos/api/boe/sumario/{date}"
+
+
+def make_session():
+    session = requests.Session()
+    retry = Retry(
+        total=3,
+        connect=3,
+        read=3,
+        status=3,
+        backoff_factor=0.5,
+        status_forcelist=(429, 500, 502, 503, 504),
+        allowed_methods=frozenset({"GET"}),
+        raise_on_status=False,
+    )
+    session.mount("https://", HTTPAdapter(max_retries=retry))
+    return session
+
+
+def get_with_retries(session, url, **kwargs):
+    last_error = None
+    for attempt in range(3):
+        try:
+            response = session.get(url, timeout=(5, 20), **kwargs)
+            _ = response.content
+            return response
+        except requests.RequestException as exc:
+            last_error = exc
+            if attempt == 2:
+                raise
+            time.sleep(0.5 * (2 ** attempt))
+    raise last_error
 
 
 def flatten(node):
@@ -30,7 +64,7 @@ def latest_payload(session):
     for offset in range(5):
         day = today - timedelta(days=offset)
         date_key = day.strftime("%Y%m%d")
-        response = session.get(API.format(date=date_key), headers=HEADERS, timeout=(5, 20))
+        response = get_with_retries(session, API.format(date=date_key), headers=HEADERS)
         if response.status_code == 200:
             payload = response.json()
             if payload.get("status", {}).get("code") == "200":
@@ -40,7 +74,7 @@ def latest_payload(session):
 
 
 def clean_page(session, url):
-    response = session.get(url, timeout=(5, 20))
+    response = get_with_retries(session, url)
     response.raise_for_status()
     stripped = re.sub(r"<[^>]+>", " ", response.text)
     return re.sub(r"\s+", " ", html.unescape(stripped)).strip()
@@ -60,7 +94,7 @@ def parse_deadline(text):
 
 
 def collect():
-    with requests.Session() as session:
+    with make_session() as session:
         date_key, payload = latest_payload(session)
         rows = []
         for item in flatten(payload):

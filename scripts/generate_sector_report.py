@@ -6,9 +6,8 @@ import unicodedata
 from datetime import datetime
 from pathlib import Path
 
-import requests
 
-from update_latest import TZ, clean_page, collect, fmt_eur
+from update_latest import TZ, clean_page, collect, fmt_eur, make_session
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "paid_reports"
@@ -35,7 +34,7 @@ def slugify(value):
 
 def rank_rows(rows, terms, required_terms=None):
     ranked = []
-    with requests.Session() as session:
+    with make_session() as session:
         for row in rows:
             text = clean_page(session, row["url"])
             title_text = normalize(row["title"])
