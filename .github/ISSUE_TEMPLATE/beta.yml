@@ -1,5 +1,5 @@
 name: Solicitar acceso beta
-description: Indica el sector que quieres monitorizar. No publiques datos sensibles.
+description: Configura un radar sectorial. No publiques datos sensibles.
 title: "Acceso beta: "
 labels: ["beta-interest"]
 body:
@@ -16,13 +16,38 @@ body:
       placeholder: "Construcción ferroviaria"
     validations:
       required: true
+  - type: input
+    id: zona
+    attributes:
+      label: Zona de interés
+      description: España completa, comunidad autónoma, provincia o municipio.
+      placeholder: "Andalucía"
+    validations:
+      required: false
+  - type: input
+    id: keywords
+    attributes:
+      label: Palabras clave o tipos de contrato
+      description: Qué debería detectar el radar para que te resulte útil.
+      placeholder: "cerramientos, obra ferroviaria, mantenimiento"
+    validations:
+      required: false
   - type: dropdown
     id: interest
     attributes:
-      label: Qué te interesaría probar
+      label: Opción que contratarías si el resultado encaja
       options:
         - Informe puntual de 9 €
         - Radar recurrente de 19 €/mes
         - Ambos
+        - Solo quiero probar antes de decidir
     validations:
       required: true
+  - type: textarea
+    id: pain
+    attributes:
+      label: Qué trabajo manual quieres evitar
+      description: Opcional. Ayuda a priorizar el producto, sin datos personales.
+      placeholder: "Revisar a diario varias fuentes y descartar anuncios irrelevantes."
+    validations:
+      required: false
