@@ -90,7 +90,8 @@ def fmt_eur(value):
 def render(date_key, rows):
     generated = datetime.now(TZ).strftime("%d/%m/%Y %H:%M %Z")
     body = []
-    for row in rows:
+    sample = rows[:3]
+    for row in sample:
         body.append(
             "<tr>"
             f"<td>{html.escape(row['id'])}</td>"
@@ -113,11 +114,15 @@ def render(date_key, rows):
 def main():
     date_key, rows = collect()
     DATA_DIR.mkdir(exist_ok=True)
+    known = [row for row in rows if row["value_eur"] is not None]
     payload = {
         "boe_date": date_key,
         "generated_at": datetime.now(TZ).isoformat(),
         "count": len(rows),
-        "items": rows,
+        "known_value_count": len(known),
+        "total_value_eur": sum(row["value_eur"] for row in known),
+        "deadline_count": sum(bool(row["deadline"]) for row in rows),
+        "items": rows[:3],
     }
     (DATA_DIR / "latest.json").write_text(
         json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8"

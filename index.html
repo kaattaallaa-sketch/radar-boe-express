@@ -4,52 +4,52 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Radar BOE Express — oportunidades públicas sin ruido</title>
-<meta name="description" content="Radar independiente que resume licitaciones publicadas en el BOE y destaca importe, plazo y fuente oficial.">
+<meta name="description" content="Radar sectorial independiente de licitaciones publicadas en el BOE, con importe, plazo y fuente oficial.">
 <style>
-:root{font-family:Inter,system-ui,sans-serif;color:#151515;background:#f6f6f3}body{margin:0}.wrap{max-width:960px;margin:auto;padding:48px 22px}h1{font-size:clamp(2.2rem,6vw,4.6rem);line-height:.98;margin:.2em 0}.lead{font-size:1.25rem;max-width:720px;color:#444}.cta{display:inline-block;padding:14px 20px;background:#111;color:#fff;text-decoration:none;border-radius:9px;font-weight:700}.muted{color:#666}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:14px;margin:34px 0}.card{background:#fff;border:1px solid #ddd;border-radius:12px;padding:18px}.num{font-size:2rem;font-weight:800}.sample{background:#fff;border:1px solid #ddd;border-radius:12px;overflow:auto}table{width:100%;border-collapse:collapse}th,td{text-align:left;padding:13px;border-bottom:1px solid #eee;vertical-align:top}th{background:#fafafa}.price{font-weight:800;white-space:nowrap}.note{margin-top:34px;font-size:.9rem;color:#666}
+:root{font-family:Inter,system-ui,sans-serif;color:#151515;background:#f6f6f3}body{margin:0}.wrap{max-width:960px;margin:auto;padding:48px 22px}h1{font-size:clamp(2.2rem,6vw,4.6rem);line-height:.98;margin:.2em 0}.lead{font-size:1.25rem;max-width:760px;color:#444}.cta{display:inline-block;padding:14px 20px;background:#111;color:#fff;text-decoration:none;border-radius:9px;font-weight:700;margin:5px 5px 5px 0}.cta.alt{background:#555}.muted{color:#666}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:14px;margin:34px 0}.card{background:#fff;border:1px solid #ddd;border-radius:12px;padding:18px}.num{font-size:2rem;font-weight:800}.sample{background:#fff;border:1px solid #ddd;border-radius:12px;overflow:auto}table{width:100%;border-collapse:collapse}th,td{text-align:left;padding:13px;border-bottom:1px solid #eee;vertical-align:top}th{background:#fafafa}.price{font-weight:800;white-space:nowrap}.note{margin-top:34px;font-size:.9rem;color:#666}.buy{margin-top:12px}
 </style>
 </head>
 <body><main class="wrap">
-<p class="muted" id="edition">VALIDACIÓN BETA · ACTUALIZACIÓN AUTOMÁTICA</p>
+<p class="muted" id="edition">ACTUALIZACIÓN AUTOMÁTICA · DATOS PÚBLICOS BOE</p>
 <h1>Radar BOE Express</h1>
-<p class="lead">Licitaciones públicas convertidas en una lista útil: objeto, valor estimado, plazo y enlace oficial. Sin revisar manualmente cientos de anuncios.</p>
-<a class="cta" href="https://github.com/kaattaallaa-sketch/radar-boe-express/issues/new?template=beta.yml">Quiero acceso beta</a>
-<a class="cta" style="margin-left:8px;background:#555" href="latest.html">Ver radar actualizado</a>
-<section class="grid">
-<div class="card"><div class="num" id="count">11</div><div>Licitaciones detectadas</div></div>
-<div class="card"><div class="num" id="known-values">10/11</div><div>Con valor estimado extraído</div></div>
-<div class="card"><div class="num" id="total-value">5,32 M€</div><div>Valor conocido agregado</div></div>
-<div class="card"><div class="num" id="with-deadline">11/11</div><div>Con plazo de oferta extraído</div></div>
+<p class="lead">Detectamos licitaciones y las filtramos por tu sector, zona y palabras clave para que revises oportunidades útiles en lugar de recorrer manualmente el BOE.</p>
+<a class="cta" href="https://buy.stripe.com/cNi4gBfkz1X13BQcf5efC00">Informe sectorial · 9 €</a>
+<a class="cta" href="https://buy.stripe.com/dRm00l5JZfNRfkyendefC01">Radar sectorial · 19 €/mes</a>
+<a class="cta alt" href="latest.html">Ver muestra actualizada</a>
+<p class="muted">Fase piloto: la primera activación se prepara manualmente usando los criterios que indiques en el checkout de Stripe.</p>
+<section class="grid"><div class="card"><div class="num" id="count">—</div><div>Licitaciones detectadas</div></div>
+<div class="card"><div class="num" id="known-values">—</div><div>Con valor estimado extraído</div></div>
+<div class="card"><div class="num" id="total-value">—</div><div>Valor conocido agregado</div></div>
+<div class="card"><div class="num" id="with-deadline">—</div><div>Con plazo extraído</div></div>
 </section>
-<h2>Muestra automática</h2>
+<h2>Muestra pública</h2>
+<p>La web publica solo tres ejemplos y estadísticas agregadas. El servicio de pago aplica filtros sectoriales a la edición completa.</p>
 <div class="sample"><table>
 <thead><tr><th>Oportunidad</th><th>Valor estimado</th><th>Plazo</th><th>Fuente</th></tr></thead>
-<tbody id="sample-body">
-<tr><td>Vigilancia y seguridad del Centro Nacional de Condiciones de Trabajo, Barcelona</td><td class="price">864.991,18 €</td><td>21/10/2026 · 23:59</td><td><a href="https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-30084">BOE</a></td></tr>
-<tr><td>Seguro de casco, máquinas y P&amp;I para la flota del Instituto Social de la Marina</td><td class="price">720.000,00 €</td><td>04/10/2026 · 23:59</td><td><a href="https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-30089">BOE</a></td></tr>
-<tr><td>Cerramientos de protección en estaciones ADIF de circulación Centro 1 y 2</td><td class="price">325.982,30 €</td><td>16/10/2026 · 13:00</td><td><a href="https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-30083">BOE</a></td></tr>
-</tbody></table></div>
+<tbody id="sample-body"><tr><td colspan="4">Cargando muestra…</td></tr></tbody>
+</table></div>
 <h2>Oferta piloto</h2>
 <div class="grid">
-<div class="card"><strong>Informe del día</strong><p>9 €</p><p class="muted">Listado procesado y ordenado con acceso a las fuentes oficiales.</p></div>
-<div class="card"><strong>Radar recurrente</strong><p>19 €/mes</p><p class="muted">Precio de validación. Alertas e informe periódico adaptados a un sector.</p></div>
+<div class="card"><strong>Informe sectorial puntual</strong><p class="num">9 €</p><p>Una edición filtrada según el sector, zona y palabras clave que indiques al pagar.</p><p class="buy"><a class="cta" href="https://buy.stripe.com/cNi4gBfkz1X13BQcf5efC00">Comprar por 9 €</a></p></div>
+<div class="card"><strong>Radar sectorial recurrente</strong><p class="num">19 €/mes</p><p>Seguimiento periódico bajo los criterios indicados en el alta. La suscripción continúa hasta su cancelación.</p><p class="buy"><a class="cta" href="https://buy.stripe.com/dRm00l5JZfNRfkyendefC01">Suscribirme</a></p></div>
 </div>
-<h2>Qué estamos validando</h2>
-<p>Si empresas y profesionales pagarían por recibir únicamente oportunidades relevantes sin tener que revisar manualmente el BOE. El acceso beta se gestiona mediante GitHub y no exige dejar datos personales en esta web.</p>
-<a class="cta" href="https://github.com/kaattaallaa-sketch/radar-boe-express/issues/new?template=beta.yml">Solicitar acceso beta</a>
-<p class="note">Servicio independiente, no afiliado ni respaldado por la Agencia Estatal Boletín Oficial del Estado. Los datos se obtienen de fuentes públicas oficiales. Antes de presentar una oferta debe comprobarse siempre el anuncio, los pliegos y los requisitos en la fuente oficial.</p>
+<h2>Qué compras</h2>
+<p>Un servicio independiente de filtrado y priorización sobre datos públicos. No se garantiza que una licitación sea adecuada para presentar oferta: los pliegos y requisitos oficiales deben verificarse siempre en el BOE y en el perfil de contratación correspondiente.</p>
+<p class="muted">¿Quieres proponer otro tipo de filtro antes de pagar? <a href="https://github.com/kaattaallaa-sketch/radar-boe-express/issues/new?template=beta.yml">Solicitar acceso beta</a>.</p>
+<p class="note">Servicio independiente, no afiliado ni respaldado por la Agencia Estatal Boletín Oficial del Estado. Checkout procesado por Stripe.</p>
 <script>
-(async()=>{try{
-const r=await fetch('data/latest.json',{cache:'no-store'}); if(!r.ok) throw new Error('HTTP '+r.status); const d=await r.json();
-const items=Array.isArray(d.items)?d.items:[], known=items.filter(x=>typeof x.value_eur==='number'), deadlines=items.filter(x=>x.deadline);
-const total=known.reduce((a,x)=>a+x.value_eur,0), money=new Intl.NumberFormat('es-ES',{style:'currency',currency:'EUR',maximumFractionDigits:2});
+(async()=>{try{const r=await fetch('data/latest.json',{cache:'no-store'}); if(!r.ok) throw new Error('HTTP '+r.status); const d=await r.json();
+const items=Array.isArray(d.items)?d.items:[], count=Number(d.count)||items.length;
+const known=Number.isFinite(Number(d.known_value_count))?Number(d.known_value_count):items.filter(x=>typeof x.value_eur==='number').length;
+const deadlines=Number.isFinite(Number(d.deadline_count))?Number(d.deadline_count):items.filter(x=>x.deadline).length;
+const total=Number(d.total_value_eur)||0, money=new Intl.NumberFormat('es-ES',{style:'currency',currency:'EUR',maximumFractionDigits:2});
 const k=String(d.boe_date||''), pretty=k.length===8?`${k.slice(6,8)}/${k.slice(4,6)}/${k.slice(0,4)}`:k;
-document.getElementById('edition').textContent=`VALIDACIÓN BETA · BOE ${pretty}`;
-document.getElementById('count').textContent=items.length; document.getElementById('known-values').textContent=`${known.length}/${items.length}`;
-document.getElementById('total-value').textContent=total?money.format(total):'—'; document.getElementById('with-deadline').textContent=`${deadlines.length}/${items.length}`;
+document.getElementById('edition').textContent=`ACTUALIZACIÓN AUTOMÁTICA · BOE ${pretty}`;
+document.getElementById('count').textContent=count; document.getElementById('known-values').textContent=`${known}/${count}`;
+document.getElementById('total-value').textContent=total?money.format(total):'—'; document.getElementById('with-deadline').textContent=`${deadlines}/${count}`;
 const body=document.getElementById('sample-body'); body.replaceChildren(...items.slice(0,3).map(x=>{const tr=document.createElement('tr');
 for(const v of [x.title,typeof x.value_eur==='number'?money.format(x.value_eur):'No indicado',x.deadline||'No extraído']){const td=document.createElement('td');td.textContent=v;tr.appendChild(td)}
-const td=document.createElement('td'),a=document.createElement('a');a.href=x.url;a.textContent='BOE';td.appendChild(a);tr.appendChild(td);return tr;}));
+const td=document.createElement('td'),a=document.createElement('a');a.href=x.url;a.textContent='BOE';a.rel='noopener';td.appendChild(a);tr.appendChild(td);return tr;}));
 }catch(e){console.warn('Radar BOE: no se pudo cargar latest.json',e)}})();
 </script>
 </main></body></html>
