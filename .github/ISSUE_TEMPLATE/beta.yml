@@ -1,0 +1,28 @@
+name: Solicitar acceso beta
+description: Indica el sector que quieres monitorizar. No publiques datos sensibles.
+title: "Acceso beta: "
+labels: ["beta-interest"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Gracias por probar Radar BOE Express. Esta solicitud es pública en GitHub.
+        No incluyas teléfonos, emails, credenciales ni otra información sensible.
+  - type: input
+    id: sector
+    attributes:
+      label: Sector o actividad
+      description: Ej. construcción, seguridad, formación, instalaciones, seguros.
+      placeholder: "Construcción ferroviaria"
+    validations:
+      required: true
+  - type: dropdown
+    id: interest
+    attributes:
+      label: Qué te interesaría probar
+      options:
+        - Informe puntual de 9 €
+        - Radar recurrente de 19 €/mes
+        - Ambos
+    validations:
+      required: true
