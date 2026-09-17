@@ -16,7 +16,7 @@ URLS = [
 ]
 
 
-def wait_until_public(session, attempts=8, pause=5):
+def wait_until_public(session, attempts=24, pause=5):
     for attempt in range(1, attempts + 1):
         statuses = {}
         for url in URLS:
