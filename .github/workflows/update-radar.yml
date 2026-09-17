@@ -20,6 +20,10 @@ jobs:
         run: python -m pip install --disable-pip-version-check requests
       - name: Refresh latest BOE data
         run: python scripts/update_latest.py
+      - name: Notify IndexNow
+        run: >-
+          curl --fail --silent --show-error --output /dev/null
+          "https://api.indexnow.org/indexnow?url=https%3A%2F%2Fkaattaallaa-sketch.github.io%2Fradar-boe-express%2Flatest.html&key=a20f9fcd4c64468dac510447ca05affb&keyLocation=https%3A%2F%2Fkaattaallaa-sketch.github.io%2Fradar-boe-express%2Fa20f9fcd4c64468dac510447ca05affb.txt"
       - name: Commit changed output
         run: |
           git config user.name "radar-boe-bot"
