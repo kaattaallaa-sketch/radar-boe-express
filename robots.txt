@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kaattaallaa-sketch.github.io/radar-boe-express/sitemap.xml
