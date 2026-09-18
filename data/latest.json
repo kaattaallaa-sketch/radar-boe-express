@@ -1,31 +1,31 @@
 {
-  "boe_date": "20260917",
-  "generated_at": "2026-09-17T16:49:36.540716+02:00",
-  "count": 11,
-  "known_value_count": 10,
-  "total_value_eur": 5322791.590000001,
-  "deadline_count": 11,
+  "boe_date": "20260918",
+  "generated_at": "2026-09-18T14:12:02.848095+02:00",
+  "count": 4,
+  "known_value_count": 4,
+  "total_value_eur": 5157534.120000001,
+  "deadline_count": 4,
   "items": [
     {
-      "id": "BOE-B-2026-30069",
-      "title": "Anuncio de licitación de: Jefatura de Asuntos Económicos del Estado Mayor de la Defensa. Objeto: Nodo NATO SECRET WAN (NS WAN) del Centro de Excelencia en Contra-Artefactos Explosivos Improvisados (CoE-CIED). Expediente: 2026/SP02002001/00001513E.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-30069",
-      "value_eur": 1570247.86,
-      "deadline": "Hasta las 12:00 horas del 30 de septiembre de 2026"
+      "id": "BOE-B-2026-30155",
+      "title": "Anuncio de licitación de: Gerencia de Atención Sanitaria de Melilla - Instituto Nacional de Gestión Sanitaria. Objeto: Suministro de medicamentos para dispensación hospitalaria con destino a los pacientes beneficiarios del Instituto Nacional de Gestión Sanitaria en el Área Sanitaria de Melilla. Expediente: P.A. 2026-061-GME.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-30155",
+      "value_eur": 2385587.95,
+      "deadline": "Hasta las 23:59 horas del 27 de septiembre de 2026"
     },
     {
-      "id": "BOE-B-2026-30067",
-      "title": "Anuncio de licitación de: Jefatura de Asuntos Económicos del Estado Mayor de la Defensa. Objeto: Sistema HUB TDL dentro de la red JRE nacional (JRE-N) en DLMC. Expediente: 2026/SP02002001/00001510E.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-30067",
-      "value_eur": 911570.25,
-      "deadline": "Hasta las 12:00 horas del 30 de septiembre de 2026"
+      "id": "BOE-B-2026-30141",
+      "title": "Anuncio de licitación de: Jefatura de la Sección Económico Administrativa 22 - Base Aérea de Torrejón (Agrupación de Base). Objeto: APO 155 INFRA - Acuerdo Marco de mantenimiento correctivo de instalaciones y edificios en la Base Aérea de Torrejón. Expediente: 2026/EA22/00001229E.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-30141",
+      "value_eur": 2309280.1,
+      "deadline": "Hasta las 23:59 horas del 19 de octubre de 2026"
     },
     {
-      "id": "BOE-B-2026-30084",
-      "title": "Anuncio de licitación de: Instituto Nacional de Seguridad y Salud en el Trabajo O.A. M.P. (INSST). Objeto: El objeto del contrato es la prestación de los servicios de vigilancia y seguridad del edificio sede del Centro Nacional de Condiciones de Trabajo de Barcelona, por un período de 12 meses, con el fin de garantizar la seguridad de las personas, los bienes y las instalaciones, así como el normal desarrollo de las actividades que se realizan en el centro. Expediente: 0176-26.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-30084",
-      "value_eur": 864991.18,
-      "deadline": "Hasta las 23:59 horas del 21 de octubre de 2026"
+      "id": "BOE-B-2026-30152",
+      "title": "Anuncio de licitación de: ADIF - Presidencia. Objeto: Servicios auxiliares como apoyo en fase de obras en la estación de València Nord. Expediente: 3.26/24108.0165.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-30152",
+      "value_eur": 264326.07,
+      "deadline": "Hasta las 09:00 horas del 1 de octubre de 2026"
     }
   ]
 }
