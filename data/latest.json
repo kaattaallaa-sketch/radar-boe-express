@@ -1,31 +1,9 @@
 {
-  "boe_date": "20260918",
-  "generated_at": "2026-09-18T14:12:02.848095+02:00",
-  "count": 4,
-  "known_value_count": 4,
-  "total_value_eur": 5157534.120000001,
-  "deadline_count": 4,
-  "items": [
-    {
-      "id": "BOE-B-2026-30155",
-      "title": "Anuncio de licitación de: Gerencia de Atención Sanitaria de Melilla - Instituto Nacional de Gestión Sanitaria. Objeto: Suministro de medicamentos para dispensación hospitalaria con destino a los pacientes beneficiarios del Instituto Nacional de Gestión Sanitaria en el Área Sanitaria de Melilla. Expediente: P.A. 2026-061-GME.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-30155",
-      "value_eur": 2385587.95,
-      "deadline": "Hasta las 23:59 horas del 27 de septiembre de 2026"
-    },
-    {
-      "id": "BOE-B-2026-30141",
-      "title": "Anuncio de licitación de: Jefatura de la Sección Económico Administrativa 22 - Base Aérea de Torrejón (Agrupación de Base). Objeto: APO 155 INFRA - Acuerdo Marco de mantenimiento correctivo de instalaciones y edificios en la Base Aérea de Torrejón. Expediente: 2026/EA22/00001229E.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-30141",
-      "value_eur": 2309280.1,
-      "deadline": "Hasta las 23:59 horas del 19 de octubre de 2026"
-    },
-    {
-      "id": "BOE-B-2026-30152",
-      "title": "Anuncio de licitación de: ADIF - Presidencia. Objeto: Servicios auxiliares como apoyo en fase de obras en la estación de València Nord. Expediente: 3.26/24108.0165.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-30152",
-      "value_eur": 264326.07,
-      "deadline": "Hasta las 09:00 horas del 1 de octubre de 2026"
-    }
-  ]
+  "boe_date": "20260919",
+  "generated_at": "2026-09-19T13:54:32.056907+02:00",
+  "count": 0,
+  "known_value_count": 0,
+  "total_value_eur": 0,
+  "deadline_count": 0,
+  "items": []
 }
