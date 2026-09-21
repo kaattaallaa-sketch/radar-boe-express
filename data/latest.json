@@ -1,9 +1,31 @@
 {
-  "boe_date": "20260919",
-  "generated_at": "2026-09-20T14:14:54.418274+02:00",
-  "count": 0,
-  "known_value_count": 0,
-  "total_value_eur": 0,
-  "deadline_count": 0,
-  "items": []
+  "boe_date": "20260921",
+  "generated_at": "2026-09-21T15:58:35.376767+02:00",
+  "count": 14,
+  "known_value_count": 10,
+  "total_value_eur": 15164376.19,
+  "deadline_count": 14,
+  "items": [
+    {
+      "id": "BOE-B-2026-30434",
+      "title": "Anuncio de licitación de: ADIF - Presidencia. Objeto: Servicios de consultoría y asistencia al proceso de digitalización de expedientes de pasos a nivel en el archivo de la Subdirección de Pasos a Nivel. Expediente: 3.26/27520.0038.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-30434",
+      "value_eur": 4992800.7,
+      "deadline": "Hasta las 10:00 horas del 19 de octubre de 2026"
+    },
+    {
+      "id": "BOE-B-2026-30435",
+      "title": "Anuncio de licitación de: ADIF - Presidencia. Objeto: Servicios de retirada vegetal mediante talas y desbroces y tratamiento de taludes y trincheras en el ámbito de la red de infraestructuras ferroviarias de la subdirección de operaciones red convencional sur. Expediente: 3.26/27520.0049.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-30435",
+      "value_eur": 4405594.0,
+      "deadline": "Hasta las 10:00 horas del 19 de octubre de 2026"
+    },
+    {
+      "id": "BOE-B-2026-30436",
+      "title": "Anuncio de licitación de: ADIF - Presidencia. Objeto: Servicio de consultoría para la oficina técnica de telemandos de energía. Expediente: 3.26/27520.0056.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-30436",
+      "value_eur": 3158877.48,
+      "deadline": "Hasta las 10:00 horas del 19 de octubre de 2026"
+    }
+  ]
 }
