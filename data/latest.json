@@ -1,31 +1,31 @@
 {
-  "boe_date": "20260921",
-  "generated_at": "2026-09-21T15:58:35.376767+02:00",
-  "count": 14,
-  "known_value_count": 10,
-  "total_value_eur": 15164376.19,
-  "deadline_count": 14,
+  "boe_date": "20260922",
+  "generated_at": "2026-09-22T14:33:05.922520+02:00",
+  "count": 23,
+  "known_value_count": 19,
+  "total_value_eur": 353219461.07,
+  "deadline_count": 23,
   "items": [
     {
-      "id": "BOE-B-2026-30434",
-      "title": "Anuncio de licitación de: ADIF - Presidencia. Objeto: Servicios de consultoría y asistencia al proceso de digitalización de expedientes de pasos a nivel en el archivo de la Subdirección de Pasos a Nivel. Expediente: 3.26/27520.0038.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-30434",
-      "value_eur": 4992800.7,
-      "deadline": "Hasta las 10:00 horas del 19 de octubre de 2026"
+      "id": "BOE-B-2026-30578",
+      "title": "Anuncio de licitación de: Jefatura de Asuntos Económicos del Mando de Apoyo Logístico. Objeto: Adquisición de granadas de mortero. Expediente: 2026/ETSAE0906/00003476E.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-30578",
+      "value_eur": 111348930.0,
+      "deadline": "Hasta las 12:00 horas del 9 de octubre de 2026"
     },
     {
-      "id": "BOE-B-2026-30435",
-      "title": "Anuncio de licitación de: ADIF - Presidencia. Objeto: Servicios de retirada vegetal mediante talas y desbroces y tratamiento de taludes y trincheras en el ámbito de la red de infraestructuras ferroviarias de la subdirección de operaciones red convencional sur. Expediente: 3.26/27520.0049.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-30435",
-      "value_eur": 4405594.0,
-      "deadline": "Hasta las 10:00 horas del 19 de octubre de 2026"
+      "id": "BOE-B-2026-30601",
+      "title": "Anuncio de licitación de: ADIF Alta Velocidad - Consejo de Administración. Objeto: Obras de ejecución del proyecto de construcción de protecciones acústicas de la línea de alta velocidad Murcia-Almería. Tramo: Murcia- Lorca. Expediente: 3.26/20830.0165.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-30601",
+      "value_eur": 109474145.87,
+      "deadline": "Hasta las 13:00 horas del 19 de octubre de 2026"
     },
     {
-      "id": "BOE-B-2026-30436",
-      "title": "Anuncio de licitación de: ADIF - Presidencia. Objeto: Servicio de consultoría para la oficina técnica de telemandos de energía. Expediente: 3.26/27520.0056.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-30436",
-      "value_eur": 3158877.48,
-      "deadline": "Hasta las 10:00 horas del 19 de octubre de 2026"
+      "id": "BOE-B-2026-30579",
+      "title": "Anuncio de licitación de: Jefatura de Asuntos Económicos del Mando de Apoyo Logístico. Objeto: Adquisición de cascos de combate. Expediente: 2026/ETSAE0906/00001473E.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-30579",
+      "value_eur": 61560000.0,
+      "deadline": "Hasta las 12:00 horas del 7 de octubre de 2026"
     }
   ]
 }
