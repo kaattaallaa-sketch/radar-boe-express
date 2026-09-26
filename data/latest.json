@@ -1,31 +1,9 @@
 {
-  "boe_date": "20260924",
-  "generated_at": "2026-09-24T14:41:28.919368+02:00",
-  "count": 14,
-  "known_value_count": 11,
-  "total_value_eur": 111788789.09,
-  "deadline_count": 14,
-  "items": [
-    {
-      "id": "BOE-B-2026-30768",
-      "title": "Anuncio de licitación de: Dirección de Gestión Económica de la Jefatura de Apoyo Logístico de la Armada. Objeto: AM para el Suministro de Víveres a Unidades de la Armada en Territorio Nacional. Expediente: 2026/AR40U/00001652E.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-30768",
-      "value_eur": 100000000.02,
-      "deadline": "Hasta las 23:59 horas del 19 de octubre de 2026"
-    },
-    {
-      "id": "BOE-B-2026-30766",
-      "title": "Anuncio de licitación de: Dirección de Adquisiciones del Mando de Apoyo Logístico del Ejército del Aire y del Espacio. Objeto: 20262A24 Acuerdo Marco suministro de contenedores ISO 20 1CC aerotransportables para carga de material y transporte de vehículos pesados. Expediente: 2026/EA02/00001081E.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-30766",
-      "value_eur": 2657360.0,
-      "deadline": "Hasta las 23:59 horas del 20 de octubre de 2026"
-    },
-    {
-      "id": "BOE-B-2026-30772",
-      "title": "Anuncio de licitación de: Jefatura de Intendencia de Asuntos Económicos Este. Objeto: Adecuación Casco antiguo PCZURB en Casas Altas en el Cenad San Gregorio en Zaragoza. Expediente: 2026/ETSAE0327/00005426E.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-30772",
-      "value_eur": 2439389.71,
-      "deadline": "Hasta las 11:00 horas del 13 de octubre de 2026"
-    }
-  ]
+  "boe_date": "20260926",
+  "generated_at": "2026-09-26T14:11:15.593532+02:00",
+  "count": 0,
+  "known_value_count": 0,
+  "total_value_eur": 0,
+  "deadline_count": 0,
+  "items": []
 }
