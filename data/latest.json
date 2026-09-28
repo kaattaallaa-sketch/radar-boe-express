@@ -1,9 +1,31 @@
 {
-  "boe_date": "20260926",
-  "generated_at": "2026-09-27T14:56:27.870422+02:00",
-  "count": 0,
-  "known_value_count": 0,
-  "total_value_eur": 0,
-  "deadline_count": 0,
-  "items": []
+  "boe_date": "20260928",
+  "generated_at": "2026-09-28T17:19:56.167038+02:00",
+  "count": 16,
+  "known_value_count": 14,
+  "total_value_eur": 22215571.639999997,
+  "deadline_count": 16,
+  "items": [
+    {
+      "id": "BOE-B-2026-31378",
+      "title": "Anuncio de licitación de: Dirección General del INTA. Objeto: Mantenimiento integral campus torrejon, cear, general marvá y villafranca. Expediente: 582026063700.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-31378",
+      "value_eur": 9528428.0,
+      "deadline": "Hasta las 11:00 horas del 13 de octubre de 2026"
+    },
+    {
+      "id": "BOE-B-2026-31388",
+      "title": "Anuncio de licitación de: Jefatura de Asuntos Económicos de la Guardia Civil. Objeto: Contratación del servicio de mantenimiento programado y correctivo de las plantas propulsoras de la marca comercial Caterpillar, así como de sus grupos electrógenos Stamegna y Caterpillar, acoplamientos elásticos, reductores Reintjes y ejes cardán, instalados a bordo de las embarcaciones del Servicio Marítimo de la Guardia Civil. Expediente: D/0033/A/26/6.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-31388",
+      "value_eur": 4600000.0,
+      "deadline": "Hasta las 23:59 horas del 28 de septiembre de 2026"
+    },
+    {
+      "id": "BOE-B-2026-31386",
+      "title": "Anuncio de licitación de: Jefatura de Asuntos Económicos de la Guardia Civil. Objeto: Adquisición de Pistolas Semiautomáticas, CALIBRE 9 x 19 mm para dotación de la Guardia Civil. Expediente: R/0032/A/26/6.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-31386",
+      "value_eur": 4500000.0,
+      "deadline": "Hasta las 23:59 horas del 2 de octubre de 2026"
+    }
+  ]
 }
