@@ -1,31 +1,31 @@
 {
-  "boe_date": "20260929",
-  "generated_at": "2026-09-29T15:59:55.201774+02:00",
-  "count": 7,
-  "known_value_count": 7,
-  "total_value_eur": 48417120.870000005,
-  "deadline_count": 7,
+  "boe_date": "20260930",
+  "generated_at": "2026-09-30T15:36:18.506662+02:00",
+  "count": 13,
+  "known_value_count": 10,
+  "total_value_eur": 16764092.289999997,
+  "deadline_count": 13,
   "items": [
     {
-      "id": "BOE-B-2026-31526",
-      "title": "Anuncio de licitación de: Dirección General de Política Interior. Objeto: Servicios necesarios para la obtención y difusión provisional de los datos del escrutinio de resultados de los procesos electorales y consultas populares que se convoquen, así como otros servicios complementarios: apoyo a las Juntas Electorales, desarrollo de una web del proceso y servicios relativos a los resultados definitivos. Expediente: AM/ESCRUTINIO/01/2026.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-31526",
-      "value_eur": 46064980.5,
-      "deadline": "Hasta las 12:00 horas del 30 de octubre de 2026"
+      "id": "BOE-B-2026-31641",
+      "title": "Anuncio de licitación de: Secretaría de Estado de Migraciones. Objeto: Servicio de asistencia técnica de verificación de las ayudas comunitarias, subvenciones y actuaciones de la Acción Concertada, objeto de control por parte de la Subdirección General de Gestión Económica, Fondos Europeos y Contratación de la Secretaría de Estado de Migraciones, por procedimiento abierto y con tramitación anticipada del expediente. Expediente: 202603PA0017.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-31641",
+      "value_eur": 9699976.34,
+      "deadline": "Hasta las 12:00 horas del 19 de octubre de 2026"
     },
     {
-      "id": "BOE-B-2026-31537",
-      "title": "Anuncio de licitación de: TGSS-Dirección provincial de Tenerife. Objeto: Servicio de mantenimiento integral y suministro de piezas y repuestos necesarios derivados del mantenimiento de los distintos edificios de la Dirección Provincial de la Tesorería General de la Seguridad Social de Santa Cruz de Tenerife. Expediente: 2026/380089.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-31537",
-      "value_eur": 821942.14,
-      "deadline": "Hasta las 23:59 horas del 18 de octubre de 2026 (se advierte a los licitadores que el horario establecido en esta Plataforma de Contratación del Estado está referido a la hora peninsular, lo que deberá tenerse en cuenta para que las ofertas sean presentadas en plazo)"
+      "id": "BOE-B-2026-31627",
+      "title": "Anuncio de licitación de: Subdirección General de Planificación y Gestión Económica. Objeto: Servicio de Transporte de personal al Centro Penitenciario de Sevilla II, dependiente de la Secretaria General de Instituciones Penitenciarias . Expediente: 020120260146.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-31627",
+      "value_eur": 2014800.0,
+      "deadline": "Hasta las 15:00 horas del 16 de octubre de 2026 (la documentación habrá de ser presentada de forma electrónica a través de la Plataforma de Contratación)"
     },
     {
-      "id": "BOE-B-2026-31533",
-      "title": "Anuncio de licitación de: Junta de Contratación del Ministerio de Cultura . Objeto: Mantenimiento y conservación del edificio sede de la Subdirección General del Instituto del Patrimonio Cultural de España. Expediente: J260056.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-31533",
-      "value_eur": 496000.0,
-      "deadline": "Hasta las 19:00 horas del 19 de octubre de 2026"
+      "id": "BOE-B-2026-31628",
+      "title": "Anuncio de licitación de: Subdirección General de Planificación y Gestión Económica. Objeto: Servicio de mantenimiento integral de las instalaciones en el centro penitenciario de Madrid VI (Aranjuez), UAR hospital 12 de octubre (6 hab.), dependientes de la secretaría General de Instituciones Penitenciarias. Expediente: 020120260171.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-31628",
+      "value_eur": 1725935.54,
+      "deadline": "Hasta las 10:00 horas del 16 de octubre de 2026 (la documentación habrá de ser presentada de forma electrónica a través de la Plataforma de Contratación)"
     }
   ]
 }
