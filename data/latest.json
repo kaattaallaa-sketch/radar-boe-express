@@ -1,31 +1,31 @@
 {
-  "boe_date": "20261001",
-  "generated_at": "2026-10-01T16:24:55.025760+02:00",
-  "count": 19,
-  "known_value_count": 17,
-  "total_value_eur": 49250686.6,
-  "deadline_count": 19,
+  "boe_date": "20261002",
+  "generated_at": "2026-10-02T15:47:51.085557+02:00",
+  "count": 11,
+  "known_value_count": 7,
+  "total_value_eur": 25389062.869999997,
+  "deadline_count": 11,
   "items": [
     {
-      "id": "BOE-B-2026-31699",
-      "title": "Anuncio de licitación de: Junta de Contratación de la Secretaría de Estado de Justicia. Objeto: Servicios bancarios de Cuentas de Depósitos y Consignaciones Judiciales. Expediente: ASE/2026/023.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-31699",
-      "value_eur": 38743261.4,
-      "deadline": "Hasta las 14:00 horas del 3 de noviembre de 2026"
+      "id": "BOE-B-2026-31830",
+      "title": "Anuncio de licitación de: Dirección de Gestión Económica de la Jefatura de Apoyo Logístico de la Armada. Objeto: Repuesto de Motores y Turbinas para Fragatas. Expediente: 2026/AR40U/00002845E.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-31830",
+      "value_eur": 9815268.0,
+      "deadline": "Hasta las 23:59 horas del 12 de octubre de 2026"
     },
     {
-      "id": "BOE-B-2026-31731",
-      "title": "Anuncio de licitación de: División Económica y Técnica (Cuerpo Nacional de Policía). Objeto: Suministro y montaje de neumáticos, con destino a los vehículos pertenecientes a la Policía Nacional (2027-2028). Expediente: Z27AU002/M30.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-31731",
-      "value_eur": 1760000.0,
-      "deadline": "Hasta las 12:00 horas del 20 de octubre de 2026 (la presentación de ofertas se realizará exclusivamente de forma electrónica, a través de la herramienta de preparación de ofertas que la Plataforma de Contratación del Sector público pone a su disposición)"
+      "id": "BOE-B-2026-31834",
+      "title": "Anuncio de licitación de: Dirección General de la Marina Mercante. Objeto: Gestión de servicios de la línea marítima de interés público Península-Canarias. Expediente: 202617320164.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-31834",
+      "value_eur": 6084000.0,
+      "deadline": "Hasta las 10:00 horas del 26 de octubre de 2026"
     },
     {
-      "id": "BOE-B-2026-31742",
-      "title": "Anuncio de licitación de: Dirección General de la Entidad Pública Empresarial RED.ES. Objeto: Servicio de gestión y operación del servicio de seguridad DDoS de RedIRIS. Expediente: 024/26-RI.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-31742",
-      "value_eur": 1550000.0,
-      "deadline": "Hasta las 23:59 horas del 27 de octubre de 2026"
+      "id": "BOE-B-2026-31825",
+      "title": "Anuncio de licitación de: Jefatura de la Sección de Asuntos Económicos de la Unidad Militar de Emergencias. Objeto: Adquisición y mantenimiento de equipos de protección individual (epi) lcif y usar para la ume. Expediente: 2026/SP03038000/00002846E.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-31825",
+      "value_eur": 6050220.0,
+      "deadline": "Hasta las 14:00 horas del 26 de octubre de 2026"
     }
   ]
 }
