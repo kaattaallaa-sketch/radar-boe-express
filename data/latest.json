@@ -1,31 +1,9 @@
 {
-  "boe_date": "20261002",
-  "generated_at": "2026-10-02T15:47:51.085557+02:00",
-  "count": 11,
-  "known_value_count": 7,
-  "total_value_eur": 25389062.869999997,
-  "deadline_count": 11,
-  "items": [
-    {
-      "id": "BOE-B-2026-31830",
-      "title": "Anuncio de licitación de: Dirección de Gestión Económica de la Jefatura de Apoyo Logístico de la Armada. Objeto: Repuesto de Motores y Turbinas para Fragatas. Expediente: 2026/AR40U/00002845E.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-31830",
-      "value_eur": 9815268.0,
-      "deadline": "Hasta las 23:59 horas del 12 de octubre de 2026"
-    },
-    {
-      "id": "BOE-B-2026-31834",
-      "title": "Anuncio de licitación de: Dirección General de la Marina Mercante. Objeto: Gestión de servicios de la línea marítima de interés público Península-Canarias. Expediente: 202617320164.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-31834",
-      "value_eur": 6084000.0,
-      "deadline": "Hasta las 10:00 horas del 26 de octubre de 2026"
-    },
-    {
-      "id": "BOE-B-2026-31825",
-      "title": "Anuncio de licitación de: Jefatura de la Sección de Asuntos Económicos de la Unidad Militar de Emergencias. Objeto: Adquisición y mantenimiento de equipos de protección individual (epi) lcif y usar para la ume. Expediente: 2026/SP03038000/00002846E.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-31825",
-      "value_eur": 6050220.0,
-      "deadline": "Hasta las 14:00 horas del 26 de octubre de 2026"
-    }
-  ]
+  "boe_date": "20261003",
+  "generated_at": "2026-10-03T14:27:21.094960+02:00",
+  "count": 0,
+  "known_value_count": 0,
+  "total_value_eur": 0,
+  "deadline_count": 0,
+  "items": []
 }
