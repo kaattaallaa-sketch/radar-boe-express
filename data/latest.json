@@ -1,9 +1,31 @@
 {
-  "boe_date": "20261003",
-  "generated_at": "2026-10-04T15:08:52.146491+02:00",
-  "count": 0,
-  "known_value_count": 0,
-  "total_value_eur": 0,
-  "deadline_count": 0,
-  "items": []
+  "boe_date": "20261005",
+  "generated_at": "2026-10-05T17:54:41.991886+02:00",
+  "count": 15,
+  "known_value_count": 11,
+  "total_value_eur": 26540957.939999998,
+  "deadline_count": 15,
+  "items": [
+    {
+      "id": "BOE-B-2026-32234",
+      "title": "Anuncio de licitación de: ADIF -Consejo de Administración. Objeto: Seguro de vida y seguro de accidentes para el colectivo de empleados de Adif y Adif A.V, en régimen de pedido abierto. Expediente: 2.26/03110.0179.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-32234",
+      "value_eur": 11212500.0,
+      "deadline": "Hasta las 13:00 horas del 26 de octubre de 2026"
+    },
+    {
+      "id": "BOE-B-2026-32262",
+      "title": "Anuncio de licitación de: Gerencia de Atención Sanitaria de Melilla - Instituto Nacional de Gestión Sanitaria. Objeto: Mantenimiento integral de los edificios e instalaciones de la Gerencia de Atención Sanitaria en Melilla, dependientes del Instituto Nacional de Gestión Sanitaria. Expediente: P.A. 2026-108-GME.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-32262",
+      "value_eur": 9998115.61,
+      "deadline": "Hasta las 23:59 horas del 9 de octubre de 2026"
+    },
+    {
+      "id": "BOE-B-2026-32269",
+      "title": "Anuncio de licitación de: Gerencia de Informática de la Seguridad Social. Objeto: Servicio de apoyo técnico y soporte a la gestión de proyectos en la Gerencia de Informática de la Seguridad Social. Expediente: 2026/7017.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-32269",
+      "value_eur": 1541191.68,
+      "deadline": "Hasta las 14:00 horas del 9 de octubre de 2026"
+    }
+  ]
 }
