@@ -1,31 +1,31 @@
 {
-  "boe_date": "20261007",
-  "generated_at": "2026-10-07T16:26:20.506813+02:00",
-  "count": 26,
-  "known_value_count": 24,
-  "total_value_eur": 158269904.21,
-  "deadline_count": 26,
+  "boe_date": "20261008",
+  "generated_at": "2026-10-08T16:32:01.695758+02:00",
+  "count": 20,
+  "known_value_count": 16,
+  "total_value_eur": 226336983.28000003,
+  "deadline_count": 20,
   "items": [
     {
-      "id": "BOE-B-2026-32509",
-      "title": "Anuncio de licitación de: Jefatura de Asuntos Económicos del Mando de Apoyo Logístico. Objeto: Adquisición FST Role 2 Modular. Expediente: 2025/ETSAE0906/00005822E.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-32509",
-      "value_eur": 63112500.0,
-      "deadline": "Hasta las 12:00 horas del 13 de octubre de 2026"
+      "id": "BOE-B-2026-32643",
+      "title": "Anuncio de licitación de: ADIF -Consejo de Administración. Objeto: Ejecución de las obras del proyecto de construcción del soterramiento de la línea de ancho métrico en Torrelavega (Cantabria) y del Proyecto de construcción de las actuaciones complementarias al soterramiento de la línea de ancho métrico en Torrelavega (Cantabria). Expediente: 3.26/06110.0108.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-32643",
+      "value_eur": 128644322.91,
+      "deadline": "Hasta las 13:00 horas del 1 de diciembre de 2026"
     },
     {
-      "id": "BOE-B-2026-32510",
-      "title": "Anuncio de licitación de: Jefatura de Asuntos Económicos del Mando de Apoyo Logístico. Objeto: Apoyo al Mantenimiento Integral del Vehículo Pizarro. Expediente: 2026/ETSAE0906/00001555E.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-32510",
-      "value_eur": 50578512.4,
-      "deadline": "Hasta las 12:00 horas del 30 de noviembre de 2026"
+      "id": "BOE-B-2026-32644",
+      "title": "Anuncio de licitación de: ADIF -Consejo de Administración. Objeto: Obras de ejecución del proyecto de construcción de la nueva estación intermodal de Gijón. Fase 1: remodelación del entorno urbano de la calle Carlos Marx. Expediente: 3.26/06110.0223.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-32644",
+      "value_eur": 40763905.32,
+      "deadline": "Hasta las 13:00 horas del 15 de diciembre de 2026"
     },
     {
-      "id": "BOE-B-2026-32533",
-      "title": "Anuncio de licitación de: Consejo Rector de CASA 47 Entidad Pública Empresarial. Objeto: Obras de Edificación de un edificio de 90 viviendas para alquiler asequible en la Actuación Loma Colmenar, Parcela D2, Ceuta. Expediente: 132722.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-32533",
-      "value_eur": 15839425.91,
-      "deadline": "Hasta las 13:00 horas del 18 de diciembre de 2026 (los licitadores deberán preparar y presentar obligatoriamente sus ofertas de forma electrónica a través de la Plataforma de Contratación del Sector Público (contrataciondelestado.es))"
+      "id": "BOE-B-2026-32653",
+      "title": "Anuncio de licitación de: Oficina Española de Patentes y Marcas, O.A. Objeto: Servicios de mantenimiento de las aplicaciones informáticas de la Oficina Española de Patentes y Marcas, O.A. Expediente: 70/26.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-32653",
+      "value_eur": 17873539.08,
+      "deadline": "Hasta las 14:00 horas del 2 de noviembre de 2026"
     }
   ]
 }
