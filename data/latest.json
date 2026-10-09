@@ -1,31 +1,31 @@
 {
-  "boe_date": "20261008",
-  "generated_at": "2026-10-08T16:32:01.695758+02:00",
-  "count": 20,
-  "known_value_count": 16,
-  "total_value_eur": 226336983.28000003,
-  "deadline_count": 20,
+  "boe_date": "20261009",
+  "generated_at": "2026-10-09T16:18:55.520515+02:00",
+  "count": 15,
+  "known_value_count": 13,
+  "total_value_eur": 12867547.200000001,
+  "deadline_count": 15,
   "items": [
     {
-      "id": "BOE-B-2026-32643",
-      "title": "Anuncio de licitación de: ADIF -Consejo de Administración. Objeto: Ejecución de las obras del proyecto de construcción del soterramiento de la línea de ancho métrico en Torrelavega (Cantabria) y del Proyecto de construcción de las actuaciones complementarias al soterramiento de la línea de ancho métrico en Torrelavega (Cantabria). Expediente: 3.26/06110.0108.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-32643",
-      "value_eur": 128644322.91,
-      "deadline": "Hasta las 13:00 horas del 1 de diciembre de 2026"
+      "id": "BOE-B-2026-32743",
+      "title": "Anuncio de licitación de: Consejo de Administración del Patrimonio Nacional. Objeto: Conservación arquitectónica de inmuebles de Patrimonio Nacional. Expediente: 202620PA0343.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-32743",
+      "value_eur": 7200000.0,
+      "deadline": "Hasta las 23:59 horas del 28 de octubre de 2026"
     },
     {
-      "id": "BOE-B-2026-32644",
-      "title": "Anuncio de licitación de: ADIF -Consejo de Administración. Objeto: Obras de ejecución del proyecto de construcción de la nueva estación intermodal de Gijón. Fase 1: remodelación del entorno urbano de la calle Carlos Marx. Expediente: 3.26/06110.0223.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-32644",
-      "value_eur": 40763905.32,
-      "deadline": "Hasta las 13:00 horas del 15 de diciembre de 2026"
+      "id": "BOE-B-2026-32751",
+      "title": "Anuncio de licitación de: Dirección Económico Financiero de la Dirección General de Infraestructura. MDE. Objeto: Asistencia técnica para la implantación y seguimiento de la metodología BIM en el Ministerio de Defensa. Expediente: 2026/SP03032003/00000389E.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-32751",
+      "value_eur": 1643506.0,
+      "deadline": "Hasta las 23:59 horas del 26 de octubre de 2026"
     },
     {
-      "id": "BOE-B-2026-32653",
-      "title": "Anuncio de licitación de: Oficina Española de Patentes y Marcas, O.A. Objeto: Servicios de mantenimiento de las aplicaciones informáticas de la Oficina Española de Patentes y Marcas, O.A. Expediente: 70/26.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-32653",
-      "value_eur": 17873539.08,
-      "deadline": "Hasta las 14:00 horas del 2 de noviembre de 2026"
+      "id": "BOE-B-2026-32772",
+      "title": "Anuncio de licitación de: TGSS-Dirección provincial de Almería. Objeto: Servicios de vigilancia y seguridad sin armas, de forma integral, en determinados Centros pertenecientes a la Dirección Provincial de la Tesorería General de la Seguridad Social de Almería. Expediente: EXP 2026/040029- PA.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-32772",
+      "value_eur": 748989.96,
+      "deadline": "Hasta las 15:00 horas del 30 de octubre de 2026"
     }
   ]
 }
