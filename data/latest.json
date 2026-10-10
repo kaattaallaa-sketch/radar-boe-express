@@ -1,31 +1,17 @@
 {
-  "boe_date": "20261009",
-  "generated_at": "2026-10-09T16:18:55.520515+02:00",
-  "count": 15,
-  "known_value_count": 13,
-  "total_value_eur": 12867547.200000001,
-  "deadline_count": 15,
+  "boe_date": "20261010",
+  "generated_at": "2026-10-10T15:34:01.108988+02:00",
+  "count": 1,
+  "known_value_count": 1,
+  "total_value_eur": 500000.0,
+  "deadline_count": 1,
   "items": [
     {
-      "id": "BOE-B-2026-32743",
-      "title": "Anuncio de licitación de: Consejo de Administración del Patrimonio Nacional. Objeto: Conservación arquitectónica de inmuebles de Patrimonio Nacional. Expediente: 202620PA0343.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-32743",
-      "value_eur": 7200000.0,
-      "deadline": "Hasta las 23:59 horas del 28 de octubre de 2026"
-    },
-    {
-      "id": "BOE-B-2026-32751",
-      "title": "Anuncio de licitación de: Dirección Económico Financiero de la Dirección General de Infraestructura. MDE. Objeto: Asistencia técnica para la implantación y seguimiento de la metodología BIM en el Ministerio de Defensa. Expediente: 2026/SP03032003/00000389E.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-32751",
-      "value_eur": 1643506.0,
-      "deadline": "Hasta las 23:59 horas del 26 de octubre de 2026"
-    },
-    {
-      "id": "BOE-B-2026-32772",
-      "title": "Anuncio de licitación de: TGSS-Dirección provincial de Almería. Objeto: Servicios de vigilancia y seguridad sin armas, de forma integral, en determinados Centros pertenecientes a la Dirección Provincial de la Tesorería General de la Seguridad Social de Almería. Expediente: EXP 2026/040029- PA.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-32772",
-      "value_eur": 748989.96,
-      "deadline": "Hasta las 15:00 horas del 30 de octubre de 2026"
+      "id": "BOE-B-2026-33022",
+      "title": "Anuncio de licitación de: Intendente de Cartagena. Objeto: JEMAN.- Contrato de suministros para la actualización de dos AUV SPARUS II. 2018AR021S. Expediente: 2026/AR44U/00003923E.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-33022",
+      "value_eur": 500000.0,
+      "deadline": "Hasta las 12:00 horas del 23 de octubre de 2026"
     }
   ]
 }
