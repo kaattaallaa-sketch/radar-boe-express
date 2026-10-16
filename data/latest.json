@@ -1,31 +1,31 @@
 {
-  "boe_date": "20261015",
-  "generated_at": "2026-10-15T14:36:35.652108+02:00",
-  "count": 17,
-  "known_value_count": 15,
-  "total_value_eur": 20563157.48,
-  "deadline_count": 17,
+  "boe_date": "20261016",
+  "generated_at": "2026-10-16T14:18:13.987162+02:00",
+  "count": 24,
+  "known_value_count": 22,
+  "total_value_eur": 44763391.72,
+  "deadline_count": 24,
   "items": [
     {
-      "id": "BOE-B-2026-33506",
-      "title": "Anuncio de licitación de: Consorcio para la Construcción, Equipamiento y Explotación del Laboratorio de Luz Sincrotrón. Objeto: Suministro de doce (12) Amplificadores de Potencia de Estado Sólido (SSPA) para el sistema de radiofrecuencia fundamental del anillo de almacenamiento del laboratorio de luz sincrotrón ALBA. Expediente: 20/26.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-33506",
-      "value_eur": 7000000.0,
-      "deadline": "Hasta las 13:00 horas del 8 de enero de 2027"
+      "id": "BOE-B-2026-33591",
+      "title": "Anuncio de licitación de: ADIF - Presidencia. Objeto: Acuerdo Marco de servicios de control de plagas: desinfección, desinsectación y desratización en oficinas, locales y espacios abiertos de Adif y Adif-AV. Expediente: 2.26/03110.0213.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-33591",
+      "value_eur": 8928000.0,
+      "deadline": "Hasta las 13:00 horas del 9 de noviembre de 2026"
     },
     {
-      "id": "BOE-B-2026-33504",
-      "title": "Anuncio de licitación de: Secretaría General de la Agencia Estatal Consejo Superior de Investigaciones Científicas. Objeto: Servicio de administración, monitorización, soporte, mantenimiento y consultoría de la plataforma de explotación e integración, los sistemas de almacenamiento y hosting corporativo y los servicios alojados en plataforma windows de la Agencia Estatal Consejo Superior de Investigaciones Científicas. Expediente: 35456/27.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-33504",
-      "value_eur": 4812768.0,
-      "deadline": "Hasta las 14:00 horas del 19 de octubre de 2026"
+      "id": "BOE-B-2026-33596",
+      "title": "Anuncio de licitación de: ADIF Alta Velocidad - Presidencia. Objeto: Modernización del sistema GCADIF. Expediente: 4.26/20830.0026.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-33596",
+      "value_eur": 6019200.0,
+      "deadline": "Hasta las 13:00 horas del 13 de noviembre de 2026"
     },
     {
-      "id": "BOE-B-2026-33472",
-      "title": "Anuncio de licitación de: Intendente de Cartagena. Objeto: JEMAN.- Acuerdo Marco de Servicios para el mantenimiento, reparación e instalación de alternadores de buques y submarinos S-70 apoyados por el Arsenal de Cartagena. 2018AR027S. Expediente: 2026/AR44U/00003450E.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-33472",
-      "value_eur": 2000000.0,
-      "deadline": "Hasta las 12:00 horas del 13 de noviembre de 2026"
+      "id": "BOE-B-2026-33592",
+      "title": "Anuncio de licitación de: ADIF - Presidencia. Objeto: Consultoría y asistencia para el control de la ejecución de las obras del Proyecto de construcción del soterramiento de la línea de ancho métrico en Torrelavega (Cantabria) y del Proyecto de construcción de las actuaciones complementarias al soterramiento de la línea de ancho métrico en Torrelavega (Cantabria). Expediente: 3.26/06110.0205.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-33592",
+      "value_eur": 5796830.63,
+      "deadline": "Hasta las 13:00 horas del 13 de noviembre de 2026"
     }
   ]
 }
