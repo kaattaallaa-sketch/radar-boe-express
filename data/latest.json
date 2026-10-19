@@ -1,9 +1,31 @@
 {
-  "boe_date": "20261017",
-  "generated_at": "2026-10-18T14:01:32.691979+02:00",
-  "count": 0,
-  "known_value_count": 0,
-  "total_value_eur": 0,
-  "deadline_count": 0,
-  "items": []
+  "boe_date": "20261019",
+  "generated_at": "2026-10-19T16:36:40.846405+02:00",
+  "count": 23,
+  "known_value_count": 20,
+  "total_value_eur": 35552577.63,
+  "deadline_count": 23,
+  "items": [
+    {
+      "id": "BOE-B-2026-33972",
+      "title": "Anuncio de licitación de: Dirección General de Carreteras. Objeto: OC-S-26005; 54.718/26 Rehabilitación superficial del firme en la carretera N-634 en diversos puntos entre los p.k. 148+940-162+630, 167+270-169+150, 174+000-198+800 y 232+700-244+000. Provincia de Cantabria. Expediente: C54263926005.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-33972",
+      "value_eur": 9856725.72,
+      "deadline": "Hasta las 15:00 horas del 11 de diciembre de 2026"
+    },
+    {
+      "id": "BOE-B-2026-33944",
+      "title": "Anuncio de licitación de: Dirección de Gestión Económica de la Jefatura de Apoyo Logístico de la Armada. Objeto: AM para el mantenimiento del Sistema BRASS y de los campos de antenas de la Armada. Expediente: 2026/AR40U/00001689E.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-33944",
+      "value_eur": 7920000.0,
+      "deadline": "Hasta las 23:59 horas del 4 de noviembre de 2026"
+    },
+    {
+      "id": "BOE-B-2026-33983",
+      "title": "Anuncio de licitación de: Instituto Nacional de Estadística INE. Objeto: Recogida de datos de Estadística integrada de Turismo Receptor (FRONTUR-EGATUR). Expediente: 2026N0059004.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-33983",
+      "value_eur": 6550341.04,
+      "deadline": "Hasta las 23:59 horas del 10 de noviembre de 2026"
+    }
+  ]
 }
