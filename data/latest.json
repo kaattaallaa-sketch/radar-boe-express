@@ -1,31 +1,31 @@
 {
-  "boe_date": "20261021",
-  "generated_at": "2026-10-21T14:52:41.963773+02:00",
-  "count": 18,
-  "known_value_count": 18,
-  "total_value_eur": 58191070.55,
-  "deadline_count": 18,
+  "boe_date": "20261022",
+  "generated_at": "2026-10-22T14:55:05.176854+02:00",
+  "count": 16,
+  "known_value_count": 15,
+  "total_value_eur": 42231433.309999995,
+  "deadline_count": 16,
   "items": [
     {
-      "id": "BOE-B-2026-34223",
-      "title": "Anuncio de licitación de: Jefatura de Asuntos Económicos del Mando de Apoyo Logístico. Objeto: Adquisición Ametralladoras Pesadas AMP. Expediente: 2026/ETSAE0906/00003120E.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-34223",
-      "value_eur": 22689261.87,
-      "deadline": "Hasta las 12:00 horas del 23 de octubre de 2026"
+      "id": "BOE-B-2026-34338",
+      "title": "Anuncio de licitación de: ADIF -Consejo de Administración. Objeto: Servicios de retirada vegetal mediante talas y desbroces y tratamiento de taludes y trincheras en el ámbito de la red de infraestructuras ferroviarias de la subdirección de operaciones red convencional noroeste. Expediente: 3.26/27520.0030.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-34338",
+      "value_eur": 20400976.0,
+      "deadline": "Hasta las 10:00 horas del 16 de noviembre de 2026"
     },
     {
-      "id": "BOE-B-2026-34241",
-      "title": "Anuncio de licitación de: Dirección General de Carreteras. Objeto: OC-AV-26003; 54.721/26 Rehabilitación estructural del firme en las autovías AV-20, Circunvalación de Ávila, del P.K. 0+000 al P.K. 9+660 y A-50 del P.K. 0+840 al P.K. 5+000. Provincia: Ávila. Expediente: C54260526003.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-34241",
-      "value_eur": 7009574.92,
-      "deadline": "Hasta las 15:00 horas del 11 de diciembre de 2026"
+      "id": "BOE-B-2026-34339",
+      "title": "Anuncio de licitación de: ADIF -Consejo de Administración. Objeto: Mantenimiento de las instalaciones de protección civil y seguridad de los túneles de Galicia. Tramos: Ourense-Santiago de Compostela, del corredor norte-noroeste de alta velocidad, Vigo - A Coruña del eje atlántico, accesos puerto exterior de A Coruña y otros túneles de Galicia. Expediente: 4.26/28520.0063.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-34339",
+      "value_eur": 11388970.55,
+      "deadline": "Hasta las 10:00 horas del 16 de noviembre de 2026"
     },
     {
-      "id": "BOE-B-2026-34242",
-      "title": "Anuncio de licitación de: Dirección General de Carreteras. Objeto: OC-HU-26001; 54.860/26 Plan de barreras. Mejora de los sistemas de contención en las carreteras A-23, A-2, N-2, N-123, N-123a, N-230 y N-240 y en sus enlaces e intersecciones. Provincia de Huesca. Expediente: C54262226001.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-34242",
-      "value_eur": 5605241.4,
-      "deadline": "Hasta las 19:00 horas del 15 de diciembre de 2026"
+      "id": "BOE-B-2026-34354",
+      "title": "Anuncio de licitación de: Dirección General de la Entidad Pública Empresarial RED.ES. Objeto: Servicio de apoyo a la gestión integral de servicios del área de sistemas y seguridad de RedIRIS. Expediente: 028/26-RI.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-34354",
+      "value_eur": 4535000.0,
+      "deadline": "Hasta las 23:59 horas del 3 de noviembre de 2026"
     }
   ]
 }
