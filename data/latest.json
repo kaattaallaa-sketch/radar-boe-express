@@ -1,9 +1,31 @@
 {
-  "boe_date": "20261024",
-  "generated_at": "2026-10-25T13:31:33.908980+01:00",
-  "count": 0,
-  "known_value_count": 0,
-  "total_value_eur": 0,
-  "deadline_count": 0,
-  "items": []
+  "boe_date": "20261026",
+  "generated_at": "2026-10-26T15:09:05.034741+01:00",
+  "count": 8,
+  "known_value_count": 7,
+  "total_value_eur": 4046360.87,
+  "deadline_count": 8,
+  "items": [
+    {
+      "id": "BOE-B-2026-34880",
+      "title": "Anuncio de licitación de: Jefatura de la Sección de Asuntos Económicos de la Unidad Militar de Emergencias. Objeto: Adquisición de siete (7) máquinas automotrices teleoperadas de intervención para la UME. Expediente: 2026/SP03038000/00003263E.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-34880",
+      "value_eur": 1735531.0,
+      "deadline": "Hasta las 18:59 horas del 19 de noviembre de 2026"
+    },
+    {
+      "id": "BOE-B-2026-34904",
+      "title": "Anuncio de licitación de: TGSS-Dirección provincial de Alicante. Objeto: Servicios auxiliares, transporte y logística para la Tesorería General de la Seguridad Social en la provincia de Alicante. Expediente: 2026/030286.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-34904",
+      "value_eur": 793388.42,
+      "deadline": "Hasta las 15:00 horas del 13 de noviembre de 2026"
+    },
+    {
+      "id": "BOE-B-2026-34905",
+      "title": "Anuncio de licitación de: TGSS-Dirección provincial de Córdoba. Objeto: Mantenimiento integral de las instalaciones, equipamientos, sistema de aire acondicionado y de los sistemas e instalaciones contra incendios y los de detección de intrusos de las Administraciones, U.U.R.E. y naves dependientes de la D.P. Expediente: 2026/140159.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-34905",
+      "value_eur": 548780.25,
+      "deadline": "Hasta las 23:59 horas del 12 de noviembre de 2026"
+    }
+  ]
 }
