@@ -1,31 +1,31 @@
 {
-  "boe_date": "20261026",
-  "generated_at": "2026-10-26T15:09:05.034741+01:00",
-  "count": 8,
-  "known_value_count": 7,
-  "total_value_eur": 4046360.87,
-  "deadline_count": 8,
+  "boe_date": "20261027",
+  "generated_at": "2026-10-27T14:08:09.056070+01:00",
+  "count": 11,
+  "known_value_count": 10,
+  "total_value_eur": 5260269.450000001,
+  "deadline_count": 11,
   "items": [
     {
-      "id": "BOE-B-2026-34880",
-      "title": "Anuncio de licitación de: Jefatura de la Sección de Asuntos Económicos de la Unidad Militar de Emergencias. Objeto: Adquisición de siete (7) máquinas automotrices teleoperadas de intervención para la UME. Expediente: 2026/SP03038000/00003263E.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-34880",
-      "value_eur": 1735531.0,
-      "deadline": "Hasta las 18:59 horas del 19 de noviembre de 2026"
+      "id": "BOE-B-2026-35069",
+      "title": "Anuncio de licitación de: Persona titular de la Delegación Especial de Economía y Hacienda en Aragón - Zaragoza. Objeto: Prestación del servicio de limpieza del edificio sede de la Delegación Especial de Economía y Hacienda en Aragón. Expediente: 1/CM/2026.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-35069",
+      "value_eur": 1662958.0,
+      "deadline": "Hasta las 23:59 horas del 16 de noviembre de 2026"
     },
     {
-      "id": "BOE-B-2026-34904",
-      "title": "Anuncio de licitación de: TGSS-Dirección provincial de Alicante. Objeto: Servicios auxiliares, transporte y logística para la Tesorería General de la Seguridad Social en la provincia de Alicante. Expediente: 2026/030286.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-34904",
-      "value_eur": 793388.42,
-      "deadline": "Hasta las 15:00 horas del 13 de noviembre de 2026"
+      "id": "BOE-B-2026-35083",
+      "title": "Anuncio de licitación de: Oficina Española de Patentes y Marcas, O.A. Objeto: Servicios de administración de la red de área local, telefonía y de seguridad perimetral para la Oficina Española de Patentes y Marcas, O.A. O.A. Expediente: 85/26.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-35083",
+      "value_eur": 1144793.36,
+      "deadline": "Hasta las 14:00 horas del 23 de noviembre de 2026"
     },
     {
-      "id": "BOE-B-2026-34905",
-      "title": "Anuncio de licitación de: TGSS-Dirección provincial de Córdoba. Objeto: Mantenimiento integral de las instalaciones, equipamientos, sistema de aire acondicionado y de los sistemas e instalaciones contra incendios y los de detección de intrusos de las Administraciones, U.U.R.E. y naves dependientes de la D.P. Expediente: 2026/140159.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-34905",
-      "value_eur": 548780.25,
-      "deadline": "Hasta las 23:59 horas del 12 de noviembre de 2026"
+      "id": "BOE-B-2026-35091",
+      "title": "Anuncio de licitación de: Dirección General del Instituto de Mayores y Servicios Sociales. Objeto: Seguro de responsabilidad civil y/o patrimonial para el Instituto de Mayores y Servicios Sociales (IMSERSO) y su personal dependiente. Expediente: 471/2026.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-35091",
+      "value_eur": 780000.0,
+      "deadline": "Hasta las 23:59 horas del 4 de noviembre de 2026"
     }
   ]
 }
