@@ -1,31 +1,31 @@
 {
-  "boe_date": "20261028",
-  "generated_at": "2026-10-28T14:57:31.858270+01:00",
-  "count": 20,
+  "boe_date": "20261029",
+  "generated_at": "2026-10-29T15:09:08.612923+01:00",
+  "count": 21,
   "known_value_count": 20,
-  "total_value_eur": 78239640.75,
-  "deadline_count": 20,
+  "total_value_eur": 74983475.36000001,
+  "deadline_count": 21,
   "items": [
     {
-      "id": "BOE-B-2026-35214",
-      "title": "Anuncio de licitación de: Jefatura de Asuntos Económicos del Mando de Apoyo Logístico. Objeto: Apoyo al mantenimiento integral de la familia BMR/VEC. Expediente: 2026/ETSAE0906/00001949E.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-35214",
-      "value_eur": 39338843.0,
-      "deadline": "Hasta las 12:00 horas del 9 de noviembre de 2026"
+      "id": "BOE-B-2026-35338",
+      "title": "Anuncio de licitación de: ADIF -Consejo de Administración. Objeto: Proyecto constructivo para la electrificación de la línea Zaragoza - Teruel - Sagunto, tramo Teruel - Sagunto. Línea aérea de contacto. Expediente: 3.26/27507.0275.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-35338",
+      "value_eur": 51538518.31,
+      "deadline": "Hasta las 13:00 horas del 27 de noviembre de 2026"
     },
     {
-      "id": "BOE-B-2026-35199",
-      "title": "Anuncio de licitación de: Dirección de Gestión Económica de la Jefatura de Apoyo Logístico de la Armada. Objeto: Acuerdo Marco para contratar los Servicios de Asistencia Técnica en el ámbito de la Jefatura del Apoyo Logístico. Expediente: 2026/AR40U/00001396E.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-35199",
-      "value_eur": 18027266.4,
-      "deadline": "Hasta las 23:59 horas del 3 de noviembre de 2026"
+      "id": "BOE-B-2026-35341",
+      "title": "Anuncio de licitación de: ADIF - Presidencia. Objeto: Ejecución de las obras del proyecto de construcción L-400. Tratamiento terraplenes inestables entre los PPKK 323+050 al 323+500 y del proyecto de construcción para la mejora de terraplenes trayecto Vilches - Vadollano. Expediente: 3.26/27507.0241.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-35341",
+      "value_eur": 3868203.32,
+      "deadline": "Hasta las 13:00 horas del 30 de noviembre de 2026"
     },
     {
-      "id": "BOE-B-2026-35209",
-      "title": "Anuncio de licitación de: Dirección de Gestión Económica de la Jefatura de Apoyo Logístico de la Armada. Objeto: Acuerdo Marco de suministro de material de inclemencias meteorológicas para Unidades de la Armada. Expediente: 2026/AR40U/00001660E.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-35209",
-      "value_eur": 5817754.0,
-      "deadline": "Hasta las 23:59 horas del 23 de noviembre de 2026"
+      "id": "BOE-B-2026-35345",
+      "title": "Anuncio de licitación de: Consejo Rector de CASA 47 Entidad Pública Empresarial. Objeto: Obras de Edificación de un edificio de viviendas para alquiler asequible en la Parcela situada en la Calle Joan Miró nº27, en el Municipio de Batea (Tarragona). Expediente: 133083.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-35345",
+      "value_eur": 3619681.75,
+      "deadline": "Hasta las 13:00 horas del 23 de noviembre de 2026 (los licitadores deberán preparar y presentar obligatoriamente sus ofertas de forma electrónica a través de la Plataforma de Contratación del Sector Público (contrataciondelestado.es))"
     }
   ]
 }
