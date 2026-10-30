@@ -1,31 +1,31 @@
 {
-  "boe_date": "20261029",
-  "generated_at": "2026-10-29T15:09:08.612923+01:00",
-  "count": 21,
-  "known_value_count": 20,
-  "total_value_eur": 74983475.36000001,
-  "deadline_count": 21,
+  "boe_date": "20261030",
+  "generated_at": "2026-10-30T15:01:31.074920+01:00",
+  "count": 19,
+  "known_value_count": 17,
+  "total_value_eur": 20098112.259999998,
+  "deadline_count": 19,
   "items": [
     {
-      "id": "BOE-B-2026-35338",
-      "title": "Anuncio de licitación de: ADIF -Consejo de Administración. Objeto: Proyecto constructivo para la electrificación de la línea Zaragoza - Teruel - Sagunto, tramo Teruel - Sagunto. Línea aérea de contacto. Expediente: 3.26/27507.0275.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-35338",
-      "value_eur": 51538518.31,
-      "deadline": "Hasta las 13:00 horas del 27 de noviembre de 2026"
+      "id": "BOE-B-2026-35448",
+      "title": "Anuncio de licitación de: Confederación Hidrográfica del Duero, O.A. Objeto: Obra para la sustitución de las compuertas taintor del aliviadero, la revisión completa de las tomas intermedias y sustitución de los desagües de fondo para la mejora de la seguridad de la presa de Barrios de Luna -León-. Expediente: 452-A.611.09.03/2025.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-35448",
+      "value_eur": 6849845.72,
+      "deadline": "Hasta las 11:00 horas del 23 de noviembre de 2026"
     },
     {
-      "id": "BOE-B-2026-35341",
-      "title": "Anuncio de licitación de: ADIF - Presidencia. Objeto: Ejecución de las obras del proyecto de construcción L-400. Tratamiento terraplenes inestables entre los PPKK 323+050 al 323+500 y del proyecto de construcción para la mejora de terraplenes trayecto Vilches - Vadollano. Expediente: 3.26/27507.0241.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-35341",
-      "value_eur": 3868203.32,
-      "deadline": "Hasta las 13:00 horas del 30 de noviembre de 2026"
+      "id": "BOE-B-2026-35449",
+      "title": "Anuncio de licitación de: Confederación Hidrográfica del Duero, O.A. Objeto: Servicio de mantenimiento y conservación del canal de Castilla. Expediente: 452-A.210.00.03/2026.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-35449",
+      "value_eur": 3530468.08,
+      "deadline": "Hasta las 13:00 horas del 18 de noviembre de 2026"
     },
     {
-      "id": "BOE-B-2026-35345",
-      "title": "Anuncio de licitación de: Consejo Rector de CASA 47 Entidad Pública Empresarial. Objeto: Obras de Edificación de un edificio de viviendas para alquiler asequible en la Parcela situada en la Calle Joan Miró nº27, en el Municipio de Batea (Tarragona). Expediente: 133083.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-35345",
-      "value_eur": 3619681.75,
-      "deadline": "Hasta las 13:00 horas del 23 de noviembre de 2026 (los licitadores deberán preparar y presentar obligatoriamente sus ofertas de forma electrónica a través de la Plataforma de Contratación del Sector Público (contrataciondelestado.es))"
+      "id": "BOE-B-2026-35424",
+      "title": "Anuncio de licitación de: Intendente de Cartagena. Objeto: JEMAN.- Acuerdo Marco de SERVICIOS para mantenimiento y reparación de equipos de electrónica y navegación de los buques apoyados por el Arsenal de Cartagena. 2018AR008S, 2018AR027S. Expediente: 2026/AR44U/00000727E.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-35424",
+      "value_eur": 2500000.0,
+      "deadline": "Hasta las 12:00 horas del 25 de noviembre de 2026"
     }
   ]
 }
