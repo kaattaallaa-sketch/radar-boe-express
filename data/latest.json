@@ -1,9 +1,31 @@
 {
-  "boe_date": "20261102",
-  "generated_at": "2026-11-02T17:59:12.651096+01:00",
-  "count": 0,
-  "known_value_count": 0,
-  "total_value_eur": 0,
-  "deadline_count": 0,
-  "items": []
+  "boe_date": "20261103",
+  "generated_at": "2026-11-03T15:59:58.029676+01:00",
+  "count": 12,
+  "known_value_count": 11,
+  "total_value_eur": 13946035.250000002,
+  "deadline_count": 12,
+  "items": [
+    {
+      "id": "BOE-B-2026-35873",
+      "title": "Anuncio de licitación de: ADIF - Presidencia. Objeto: Identificación y actualización de la legislación ambiental en el ámbito de la Dirección General de Operaciones y Explotación en su Dirección de Mantenimiento. Creación de unas bases de datos por centros de trabajo y actualización de estas con los requisitos legales ambientales y el apoyo de un gestor de la plataforma que va a contener los datos. Expediente: 2.26/28520.0051.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-35873",
+      "value_eur": 2944185.3,
+      "deadline": "Hasta las 10:00 horas del 30 de noviembre de 2026"
+    },
+    {
+      "id": "BOE-B-2026-35888",
+      "title": "Anuncio de licitación de: Secretaría General de la Agencia Estatal Consejo Superior de Investigaciones Científicas. Objeto: Servicio de mantenimiento general de los edificios e instalaciones, de sistemas de protección contra incendios, y de equipos elevadores de los edificios cicCartuja 1 y cicCartuja 2 del Centro de Investigaciones Científicas Isla de La Cartuja, de la Agencia Estatal Consejo Superior de Investigaciones Científicas. Expediente: LOT1/27.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-35888",
+      "value_eur": 2827200.0,
+      "deadline": "Hasta las 14:00 horas del 9 de noviembre de 2026"
+    },
+    {
+      "id": "BOE-B-2026-35885",
+      "title": "Anuncio de licitación de: Gerencia de Atención Sanitaria de Melilla - Instituto Nacional de Gestión Sanitaria. Objeto: Suministro de gasóleo con destino a las instalaciones del INGESA en el Área Sanitaria de Melilla. Expediente: P.A. 2026-160-GME.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-35885",
+      "value_eur": 2726400.0,
+      "deadline": "Hasta las 23:59 horas del 25 de noviembre de 2026"
+    }
+  ]
 }
