@@ -1,31 +1,31 @@
 {
-  "boe_date": "20261104",
-  "generated_at": "2026-11-04T16:20:47.335728+01:00",
+  "boe_date": "20261105",
+  "generated_at": "2026-11-05T16:23:09.977751+01:00",
   "count": 14,
-  "known_value_count": 13,
-  "total_value_eur": 19957889.44,
+  "known_value_count": 11,
+  "total_value_eur": 7460698.41,
   "deadline_count": 14,
   "items": [
     {
-      "id": "BOE-B-2026-35977",
-      "title": "Anuncio de licitación de: Dirección General del Servicio Público de Empleo Estatal. Objeto: Servicios de desarrollo de aplicaciones informáticas sobre SAP para el Servicio Público de Empleo Estatal. Expediente: IPA 1/27.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-35977",
-      "value_eur": 9090909.09,
-      "deadline": "Hasta las 10:00 horas del 30 de noviembre de 2026 (la preparación y presentación de ofertas se realizará haciendo uso exclusivamente de la Herramienta que a tal efecto pone a disposición la Plataforma de Contratación del Sector Público a los licitadores. Recuerde no demorar el proceso de preparación y tenga en cuenta que el horario de soporte de la Plataforma es L-J de 9 a 19 y V de 9 a 15 en la dirección licitacionE@hacienda.gob.es)"
+      "id": "BOE-B-2026-36127",
+      "title": "Anuncio de licitación de: Jefatura de la Sección de Asuntos Económicos de la Unidad Militar de Emergencias. Objeto: Concesión del servicio de máquinas expendedoras (vending) en las instalaciones de la Unidad Militar de Emergencias. Expediente: 2026/SP03038000/00002307E.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36127",
+      "value_eur": 2736302.8,
+      "deadline": "Hasta las 11:00 horas del 18 de noviembre de 2026"
     },
     {
-      "id": "BOE-B-2026-35971",
-      "title": "Anuncio de licitación de: Subdirección General de Planificacion y Gestion de Infraestructuras y Medios para la Seguridad. Objeto: Suministro de la plataforma para el sistema de firma remota cualificada para la aplicación MiDNI de Policía Nacional y sistema CL@VE. Expediente: X260310PJODE.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-35971",
-      "value_eur": 3140495.86,
-      "deadline": "Hasta las 12:00 horas del 18 de noviembre de 2026"
+      "id": "BOE-B-2026-36149",
+      "title": "Anuncio de licitación de: Presidencia de la Confederación Hidrográfica del Ebro. Objeto: Automatización de tomas en el Canal de Lodosa-Fase III (LR-NA-ZGZ/VARIOS),. Expediente: 077/26-OB.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36149",
+      "value_eur": 1352505.36,
+      "deadline": "Hasta las 12:00 horas del 20 de noviembre de 2026"
     },
     {
-      "id": "BOE-B-2026-35965",
-      "title": "Anuncio de licitación de: Dirección de Adquisiciones del Mando de Apoyo Logístico del Ejército del Aire y del Espacio. Objeto: 202631A1 Acuerdo marco para el alquiler de vehículos de servicio clase L20-M furgón carga media, sin opción de compra. Expediente: 2026/EA02/00000531E.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-35965",
-      "value_eur": 1563636.36,
-      "deadline": "Hasta las 23:59 horas del 1 de diciembre de 2026"
+      "id": "BOE-B-2026-36118",
+      "title": "Anuncio de licitación de: Intendente de Ferrol. Objeto: Sostenimiento de instalaciones y equipos REA Martorell. Expediente: 2026/AR42U/00001904E.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36118",
+      "value_eur": 578512.46,
+      "deadline": "Hasta las 08:30 horas del 27 de noviembre de 2026 (la documentación se presentará a través de la Plataforma de Contratación del Sector Público)"
     }
   ]
 }
