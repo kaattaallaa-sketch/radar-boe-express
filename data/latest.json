@@ -1,31 +1,31 @@
 {
-  "boe_date": "20261105",
-  "generated_at": "2026-11-05T16:23:09.977751+01:00",
-  "count": 14,
-  "known_value_count": 11,
-  "total_value_eur": 7460698.41,
-  "deadline_count": 14,
+  "boe_date": "20261106",
+  "generated_at": "2026-11-06T15:56:49.737125+01:00",
+  "count": 15,
+  "known_value_count": 15,
+  "total_value_eur": 204916307.98000002,
+  "deadline_count": 15,
   "items": [
     {
-      "id": "BOE-B-2026-36127",
-      "title": "Anuncio de licitación de: Jefatura de la Sección de Asuntos Económicos de la Unidad Militar de Emergencias. Objeto: Concesión del servicio de máquinas expendedoras (vending) en las instalaciones de la Unidad Militar de Emergencias. Expediente: 2026/SP03038000/00002307E.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36127",
-      "value_eur": 2736302.8,
-      "deadline": "Hasta las 11:00 horas del 18 de noviembre de 2026"
+      "id": "BOE-B-2026-36242",
+      "title": "Anuncio de licitación de: Dirección de Adquisiciones del Mando de Apoyo Logístico del Ejército del Aire y del Espacio. Objeto: 20266A01 Acuerdo Marco servicio integral de apoyo a la ingeniería y el sostenimiento de los sistemas de armas del Ejército del Aire y del Espacio. Expediente: 2026/EA02/00000671E.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36242",
+      "value_eur": 153331236.24,
+      "deadline": "Hasta las 23:59 horas del 30 de noviembre de 2026"
     },
     {
-      "id": "BOE-B-2026-36149",
-      "title": "Anuncio de licitación de: Presidencia de la Confederación Hidrográfica del Ebro. Objeto: Automatización de tomas en el Canal de Lodosa-Fase III (LR-NA-ZGZ/VARIOS),. Expediente: 077/26-OB.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36149",
-      "value_eur": 1352505.36,
-      "deadline": "Hasta las 12:00 horas del 20 de noviembre de 2026"
+      "id": "BOE-B-2026-36255",
+      "title": "Anuncio de licitación de: ADIF -Consejo de Administración. Objeto: Prestación de servicios de mantenimiento del material rodante ferroviario de la serie 310 de la Dirección de Servicios Logísticos. Expediente: 4.26/23108.0173.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36255",
+      "value_eur": 30587000.0,
+      "deadline": "Hasta las 10:00 horas del 30 de noviembre de 2026"
     },
     {
-      "id": "BOE-B-2026-36118",
-      "title": "Anuncio de licitación de: Intendente de Ferrol. Objeto: Sostenimiento de instalaciones y equipos REA Martorell. Expediente: 2026/AR42U/00001904E.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36118",
-      "value_eur": 578512.46,
-      "deadline": "Hasta las 08:30 horas del 27 de noviembre de 2026 (la documentación se presentará a través de la Plataforma de Contratación del Sector Público)"
+      "id": "BOE-B-2026-36259",
+      "title": "Anuncio de licitación de: ADIF -Consejo de Administración. Objeto: Acuerdo Marco de asistencias técnicas para el control de calidad, cuantitativo, cualitativo, geométrico y pruebas de seguridad durante la ejecución de las obras de supresión de pasos a nivel. Expediente: 3.26/27507.0256.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36259",
+      "value_eur": 9600000.0,
+      "deadline": "Hasta las 13:00 horas del 14 de diciembre de 2026"
     }
   ]
 }
