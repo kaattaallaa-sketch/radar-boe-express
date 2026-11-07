@@ -1,31 +1,9 @@
 {
-  "boe_date": "20261106",
-  "generated_at": "2026-11-06T15:56:49.737125+01:00",
-  "count": 15,
-  "known_value_count": 15,
-  "total_value_eur": 204916307.98000002,
-  "deadline_count": 15,
-  "items": [
-    {
-      "id": "BOE-B-2026-36242",
-      "title": "Anuncio de licitación de: Dirección de Adquisiciones del Mando de Apoyo Logístico del Ejército del Aire y del Espacio. Objeto: 20266A01 Acuerdo Marco servicio integral de apoyo a la ingeniería y el sostenimiento de los sistemas de armas del Ejército del Aire y del Espacio. Expediente: 2026/EA02/00000671E.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36242",
-      "value_eur": 153331236.24,
-      "deadline": "Hasta las 23:59 horas del 30 de noviembre de 2026"
-    },
-    {
-      "id": "BOE-B-2026-36255",
-      "title": "Anuncio de licitación de: ADIF -Consejo de Administración. Objeto: Prestación de servicios de mantenimiento del material rodante ferroviario de la serie 310 de la Dirección de Servicios Logísticos. Expediente: 4.26/23108.0173.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36255",
-      "value_eur": 30587000.0,
-      "deadline": "Hasta las 10:00 horas del 30 de noviembre de 2026"
-    },
-    {
-      "id": "BOE-B-2026-36259",
-      "title": "Anuncio de licitación de: ADIF -Consejo de Administración. Objeto: Acuerdo Marco de asistencias técnicas para el control de calidad, cuantitativo, cualitativo, geométrico y pruebas de seguridad durante la ejecución de las obras de supresión de pasos a nivel. Expediente: 3.26/27507.0256.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36259",
-      "value_eur": 9600000.0,
-      "deadline": "Hasta las 13:00 horas del 14 de diciembre de 2026"
-    }
-  ]
+  "boe_date": "20261107",
+  "generated_at": "2026-11-07T14:55:08.248534+01:00",
+  "count": 0,
+  "known_value_count": 0,
+  "total_value_eur": 0,
+  "deadline_count": 0,
+  "items": []
 }
