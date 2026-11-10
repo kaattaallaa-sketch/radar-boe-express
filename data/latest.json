@@ -1,9 +1,31 @@
 {
-  "boe_date": "20261109",
-  "generated_at": "2026-11-09T18:23:09.280132+01:00",
-  "count": 0,
-  "known_value_count": 0,
-  "total_value_eur": 0,
-  "deadline_count": 0,
-  "items": []
+  "boe_date": "20261110",
+  "generated_at": "2026-11-10T16:31:48.962076+01:00",
+  "count": 11,
+  "known_value_count": 9,
+  "total_value_eur": 14427779.05,
+  "deadline_count": 11,
+  "items": [
+    {
+      "id": "BOE-B-2026-36700",
+      "title": "Anuncio de licitación de: ADIF -Consejo de Administración. Objeto: Ejecución de las obras del proyecto de construcción línea 400. Tratamiento terraplenes inestables entre los ppkk 370+000 al 376+000. Expediente: 3.26/27507.0270.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36700",
+      "value_eur": 6121749.25,
+      "deadline": "Hasta las 13:00 horas del 14 de diciembre de 2026"
+    },
+    {
+      "id": "BOE-B-2026-36685",
+      "title": "Anuncio de licitación de: Dirección General de Tráfico. Objeto: Obra de mejora de la seguridad vial y gestión del tráfico mediante sistema de balizamiento en la salida 210 cre. y 217 dec. de la Autovía A-4, Santa Cruz de Mudela-Ciudad Real. Expediente: 3DGT6A000248.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36685",
+      "value_eur": 2675390.69,
+      "deadline": "Hasta las 14:00 horas del 30 de noviembre de 2026"
+    },
+    {
+      "id": "BOE-B-2026-36687",
+      "title": "Anuncio de licitación de: Dirección General de Tráfico. Objeto: Obra de mejora de la seguridad vial y gestión del tráfico mediante sistema de balizamiento entre los PP.KK. 57 y 65 de la Autovía EX-A1, Cáceres. Expediente: 3DGT6A000249.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36687",
+      "value_eur": 2272697.26,
+      "deadline": "Hasta las 14:00 horas del 30 de noviembre de 2026"
+    }
+  ]
 }
