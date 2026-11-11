@@ -1,31 +1,31 @@
 {
-  "boe_date": "20261110",
-  "generated_at": "2026-11-10T16:31:48.962076+01:00",
-  "count": 11,
-  "known_value_count": 9,
-  "total_value_eur": 14427779.05,
-  "deadline_count": 11,
+  "boe_date": "20261111",
+  "generated_at": "2026-11-11T16:04:57.094362+01:00",
+  "count": 26,
+  "known_value_count": 24,
+  "total_value_eur": 651549183.0300001,
+  "deadline_count": 26,
   "items": [
     {
-      "id": "BOE-B-2026-36700",
-      "title": "Anuncio de licitación de: ADIF -Consejo de Administración. Objeto: Ejecución de las obras del proyecto de construcción línea 400. Tratamiento terraplenes inestables entre los ppkk 370+000 al 376+000. Expediente: 3.26/27507.0270.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36700",
-      "value_eur": 6121749.25,
-      "deadline": "Hasta las 13:00 horas del 14 de diciembre de 2026"
+      "id": "BOE-B-2026-36845",
+      "title": "Anuncio de licitación de: Dirección General de Carreteras. Objeto: CO-VP-26007 Áreas de servicio dotadas de una estación de recarga ultrarrápida para vehículos eléctricos: AS La Roca Del Vallès y La Caridad M.D.; AS Perales De Tajuña y Penagos; AS Montoro; AS Algemesí; AS Calatayud; AS Saelices. Expediente: CO-VP-26007.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36845",
+      "value_eur": 611917054.0,
+      "deadline": "Hasta las 19:00 horas del 21 de enero de 2027"
     },
     {
-      "id": "BOE-B-2026-36685",
-      "title": "Anuncio de licitación de: Dirección General de Tráfico. Objeto: Obra de mejora de la seguridad vial y gestión del tráfico mediante sistema de balizamiento en la salida 210 cre. y 217 dec. de la Autovía A-4, Santa Cruz de Mudela-Ciudad Real. Expediente: 3DGT6A000248.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36685",
-      "value_eur": 2675390.69,
-      "deadline": "Hasta las 14:00 horas del 30 de noviembre de 2026"
+      "id": "BOE-B-2026-36815",
+      "title": "Anuncio de licitación de: Dirección de Asuntos Económicos del Ejército. Objeto: Acuerdo Marco para la ejecucion de trabajos de Factoria de Software de interes para el Ejercito de Tierra. Expediente: 2026/ETSAE0921/00001685E.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36815",
+      "value_eur": 8262902.24,
+      "deadline": "Hasta las 10:00 horas del 9 de diciembre de 2026"
     },
     {
-      "id": "BOE-B-2026-36687",
-      "title": "Anuncio de licitación de: Dirección General de Tráfico. Objeto: Obra de mejora de la seguridad vial y gestión del tráfico mediante sistema de balizamiento entre los PP.KK. 57 y 65 de la Autovía EX-A1, Cáceres. Expediente: 3DGT6A000249.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36687",
-      "value_eur": 2272697.26,
-      "deadline": "Hasta las 14:00 horas del 30 de noviembre de 2026"
+      "id": "BOE-B-2026-36821",
+      "title": "Anuncio de licitación de: Comisionado para el Mercado de Tabacos. Objeto: Obras de reforma y acondicionamiento de la sede del Comisionado para el Mercado de Tabacos. Expediente: 202600000100.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36821",
+      "value_eur": 8258600.0,
+      "deadline": "Hasta las 23:59 horas del 3 de diciembre de 2026"
     }
   ]
 }
