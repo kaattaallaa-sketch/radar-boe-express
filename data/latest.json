@@ -1,31 +1,31 @@
 {
-  "boe_date": "20261111",
-  "generated_at": "2026-11-11T16:04:57.094362+01:00",
-  "count": 26,
-  "known_value_count": 24,
-  "total_value_eur": 651549183.0300001,
-  "deadline_count": 26,
+  "boe_date": "20261112",
+  "generated_at": "2026-11-12T16:55:52.655102+01:00",
+  "count": 16,
+  "known_value_count": 15,
+  "total_value_eur": 11941496.2,
+  "deadline_count": 16,
   "items": [
     {
-      "id": "BOE-B-2026-36845",
-      "title": "Anuncio de licitación de: Dirección General de Carreteras. Objeto: CO-VP-26007 Áreas de servicio dotadas de una estación de recarga ultrarrápida para vehículos eléctricos: AS La Roca Del Vallès y La Caridad M.D.; AS Perales De Tajuña y Penagos; AS Montoro; AS Algemesí; AS Calatayud; AS Saelices. Expediente: CO-VP-26007.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36845",
-      "value_eur": 611917054.0,
-      "deadline": "Hasta las 19:00 horas del 21 de enero de 2027"
+      "id": "BOE-B-2026-36966",
+      "title": "Anuncio de licitación de: Presidencia de la Confederación Hidrográfica del Júcar. Objeto: Elementos estructurales de protección contra inundaciones del núcleo urbano de Cogullada. Expediente: FP.499.079/2111.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36966",
+      "value_eur": 3592822.84,
+      "deadline": "Hasta las 14:00 horas del 30 de noviembre de 2026"
     },
     {
-      "id": "BOE-B-2026-36815",
-      "title": "Anuncio de licitación de: Dirección de Asuntos Económicos del Ejército. Objeto: Acuerdo Marco para la ejecucion de trabajos de Factoria de Software de interes para el Ejercito de Tierra. Expediente: 2026/ETSAE0921/00001685E.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36815",
-      "value_eur": 8262902.24,
-      "deadline": "Hasta las 10:00 horas del 9 de diciembre de 2026"
+      "id": "BOE-B-2026-36964",
+      "title": "Anuncio de licitación de: Presidencia de la Confederación Hidrográfica del Júcar. Objeto: Zona de laminación natural en la confluencia del Barranco Casella-Barxeta. Expediente: FP.499.080/2111.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36964",
+      "value_eur": 1591269.8,
+      "deadline": "Hasta las 14:00 horas del 30 de noviembre de 2026"
     },
     {
-      "id": "BOE-B-2026-36821",
-      "title": "Anuncio de licitación de: Comisionado para el Mercado de Tabacos. Objeto: Obras de reforma y acondicionamiento de la sede del Comisionado para el Mercado de Tabacos. Expediente: 202600000100.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36821",
-      "value_eur": 8258600.0,
-      "deadline": "Hasta las 23:59 horas del 3 de diciembre de 2026"
+      "id": "BOE-B-2026-36950",
+      "title": "Anuncio de licitación de: Comité Ejecutivo del Consorcio de la Zona Franca de Cádiz. Objeto: Servicio de comunicaciones que integre servicio de telefonía fija y móvil, acceso corporativo a Internet, publicación y transporte de datos, interconexión de instalaciones, así como la renovación de la actual seguridad de la información. Expediente: CA-0233-2026-00-A.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36950",
+      "value_eur": 1516154.0,
+      "deadline": "Hasta las 15:00 horas del 4 de diciembre de 2026"
     }
   ]
 }
