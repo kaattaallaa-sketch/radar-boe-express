@@ -1,9 +1,31 @@
 {
-  "boe_date": "20261114",
-  "generated_at": "2026-11-15T15:41:24.362682+01:00",
-  "count": 0,
-  "known_value_count": 0,
-  "total_value_eur": 0,
-  "deadline_count": 0,
-  "items": []
+  "boe_date": "20261116",
+  "generated_at": "2026-11-16T17:56:40.158674+01:00",
+  "count": 19,
+  "known_value_count": 18,
+  "total_value_eur": 54102745.23999998,
+  "deadline_count": 19,
+  "items": [
+    {
+      "id": "BOE-B-2026-37649",
+      "title": "Anuncio de licitación de: Junta de Contratación del Ministerio de Agricultura, Pesca y Alimentación. Objeto: Realización de la encuesta de superficies y rendimientos de cultivos de España (ESYRCE) de 2027 y 2028. Expediente: 20260000257C.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37649",
+      "value_eur": 11651610.76,
+      "deadline": "Hasta las 10:00 horas del 14 de diciembre de 2026"
+    },
+    {
+      "id": "BOE-B-2026-37646",
+      "title": "Anuncio de licitación de: Dirección General de Carreteras. Objeto: OC-H-26002; 54.866/26 Rehabilitación del firme en la Autovía A-49 entre los pp.kk.116,210 a 132,860. Provincia de Huelva. 32-H-5220. Expediente: C54262126002.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37646",
+      "value_eur": 11510292.29,
+      "deadline": "Hasta las 19:00 horas del 18 de enero de 2027"
+    },
+    {
+      "id": "BOE-B-2026-37658",
+      "title": "Anuncio de licitación de: Dirección del Museo Nacional Centro de Arte Reina Sofía. Objeto: Servicio de mantenimiento integral de las instalaciones de los edificios que componen el Museo Nacional Centro de Arte Reina Sofía. Expediente: 202600000280.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37658",
+      "value_eur": 10327400.77,
+      "deadline": "Hasta las 23:59 horas del 9 de diciembre de 2026"
+    }
+  ]
 }
