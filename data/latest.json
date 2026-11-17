@@ -1,31 +1,31 @@
 {
-  "boe_date": "20261116",
-  "generated_at": "2026-11-16T17:56:40.158674+01:00",
-  "count": 19,
-  "known_value_count": 18,
-  "total_value_eur": 54102745.23999998,
-  "deadline_count": 19,
+  "boe_date": "20261117",
+  "generated_at": "2026-11-17T17:50:04.402447+01:00",
+  "count": 10,
+  "known_value_count": 10,
+  "total_value_eur": 40196571.53,
+  "deadline_count": 10,
   "items": [
     {
-      "id": "BOE-B-2026-37649",
-      "title": "Anuncio de licitación de: Junta de Contratación del Ministerio de Agricultura, Pesca y Alimentación. Objeto: Realización de la encuesta de superficies y rendimientos de cultivos de España (ESYRCE) de 2027 y 2028. Expediente: 20260000257C.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37649",
-      "value_eur": 11651610.76,
-      "deadline": "Hasta las 10:00 horas del 14 de diciembre de 2026"
+      "id": "BOE-B-2026-37814",
+      "title": "Anuncio de licitación de: Dirección General de Carreteras. Objeto: OC-TE-26002; 54.709/26 Rehabilitación del firme en la autovía A-23, entre los PP.KK. 141+000 y 181+050, tramo: Santa Eulalia - Calamocha Sur, provincia de Teruel. 32-TE-3630. Expediente: C54264426002.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37814",
+      "value_eur": 22572598.85,
+      "deadline": "Hasta las 19:00 horas del 28 de enero de 2027"
     },
     {
-      "id": "BOE-B-2026-37646",
-      "title": "Anuncio de licitación de: Dirección General de Carreteras. Objeto: OC-H-26002; 54.866/26 Rehabilitación del firme en la Autovía A-49 entre los pp.kk.116,210 a 132,860. Provincia de Huelva. 32-H-5220. Expediente: C54262126002.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37646",
-      "value_eur": 11510292.29,
-      "deadline": "Hasta las 19:00 horas del 18 de enero de 2027"
+      "id": "BOE-B-2026-37792",
+      "title": "Anuncio de licitación de: Inspección General de Sanidad de la Defensa. Objeto: Acuerdo Marco de material para procedimientos de electrofisiología para el HCD - 2A + 2PR. Expediente: 2026/SP01460020/00002278E.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37792",
+      "value_eur": 8403356.36,
+      "deadline": "Hasta las 23:59 horas del 11 de diciembre de 2026"
     },
     {
-      "id": "BOE-B-2026-37658",
-      "title": "Anuncio de licitación de: Dirección del Museo Nacional Centro de Arte Reina Sofía. Objeto: Servicio de mantenimiento integral de las instalaciones de los edificios que componen el Museo Nacional Centro de Arte Reina Sofía. Expediente: 202600000280.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37658",
-      "value_eur": 10327400.77,
-      "deadline": "Hasta las 23:59 horas del 9 de diciembre de 2026"
+      "id": "BOE-B-2026-37812",
+      "title": "Anuncio de licitación de: Dirección General de Carreteras. Objeto: 30.1026/26; AT-CON-26002 Consultoría y asistencia técnica para la gestión técnica de las obras de la Subdirección General de Conservación y Gestión de Activos. Área PYO I. Expediente: C30269332517.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37812",
+      "value_eur": 3906365.4,
+      "deadline": "Hasta las 19:00 horas del 26 de enero de 2027"
     }
   ]
 }
