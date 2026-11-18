@@ -1,31 +1,31 @@
 {
-  "boe_date": "20261117",
-  "generated_at": "2026-11-17T17:50:04.402447+01:00",
-  "count": 10,
-  "known_value_count": 10,
-  "total_value_eur": 40196571.53,
-  "deadline_count": 10,
+  "boe_date": "20261118",
+  "generated_at": "2026-11-18T17:22:54.121449+01:00",
+  "count": 8,
+  "known_value_count": 7,
+  "total_value_eur": 36624004.879999995,
+  "deadline_count": 8,
   "items": [
     {
-      "id": "BOE-B-2026-37814",
-      "title": "Anuncio de licitación de: Dirección General de Carreteras. Objeto: OC-TE-26002; 54.709/26 Rehabilitación del firme en la autovía A-23, entre los PP.KK. 141+000 y 181+050, tramo: Santa Eulalia - Calamocha Sur, provincia de Teruel. 32-TE-3630. Expediente: C54264426002.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37814",
-      "value_eur": 22572598.85,
-      "deadline": "Hasta las 19:00 horas del 28 de enero de 2027"
+      "id": "BOE-B-2026-37925",
+      "title": "Anuncio de licitación de: Presidencia de la Gerencia de Infraestructuras y Equipamientos de Cultura O.A. Objeto: Obras de construcción de la fase 1 de un centro integrado de 6+12+16+6 unidades (infantil, primaria, secundaria, bachillerato) en la calle Cortadura del Valle (solar del Brull) de Ceuta. Expediente: 26/222 OB.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37925",
+      "value_eur": 26425836.08,
+      "deadline": "Hasta las 12:30 horas del 16 de febrero de 2027"
     },
     {
-      "id": "BOE-B-2026-37792",
-      "title": "Anuncio de licitación de: Inspección General de Sanidad de la Defensa. Objeto: Acuerdo Marco de material para procedimientos de electrofisiología para el HCD - 2A + 2PR. Expediente: 2026/SP01460020/00002278E.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37792",
-      "value_eur": 8403356.36,
-      "deadline": "Hasta las 23:59 horas del 11 de diciembre de 2026"
+      "id": "BOE-B-2026-37931",
+      "title": "Anuncio de licitación de: Junta de Contratación del Ministerio de Economía, Comercio y Empresa. Objeto: Servicios de desarrollo y gestión de los sistemas de información que soportan las actividades de las funciones de análisis de la situación de solvencia, financiera y control de la actividad de los supervisados que desempeña la Dirección General de Seguros y Fondos de Pensiones. Expediente: 202600000027.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37931",
+      "value_eur": 6945866.68,
+      "deadline": "Hasta las 14:00 horas del 25 de noviembre de 2026 (se aconseja presentar la oferta dentro del horario de soporte de PCSP: L-J 9h a 19h; V 9h a 15h (Se excluyen los días festivos de acuerdo con el calendario laboral))"
     },
     {
-      "id": "BOE-B-2026-37812",
-      "title": "Anuncio de licitación de: Dirección General de Carreteras. Objeto: 30.1026/26; AT-CON-26002 Consultoría y asistencia técnica para la gestión técnica de las obras de la Subdirección General de Conservación y Gestión de Activos. Área PYO I. Expediente: C30269332517.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37812",
-      "value_eur": 3906365.4,
-      "deadline": "Hasta las 19:00 horas del 26 de enero de 2027"
+      "id": "BOE-B-2026-37926",
+      "title": "Anuncio de licitación de: Gerencia de Infraestructuras y Equipamientos de Cultura O.A. Objeto: Servicio para la dirección facultativa completa y coordinación de seguridad y salud en fase de ejecución de las obras de construcción de la fase 1 de un centro integrado de 6+12+16+6 unidades (infantil, primaria, secundaria, bachillerato) en la calle Cortadura del Valle (solar del Brull) de Ceuta. Expediente: 26/223 SE.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37926",
+      "value_eur": 1395000.0,
+      "deadline": "Hasta las 12:30 horas del 9 de febrero de 2027"
     }
   ]
 }
