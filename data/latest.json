@@ -1,31 +1,31 @@
 {
-  "boe_date": "20261118",
-  "generated_at": "2026-11-18T17:22:54.121449+01:00",
-  "count": 8,
-  "known_value_count": 7,
-  "total_value_eur": 36624004.879999995,
-  "deadline_count": 8,
+  "boe_date": "20261119",
+  "generated_at": "2026-11-19T17:29:51.369245+01:00",
+  "count": 13,
+  "known_value_count": 12,
+  "total_value_eur": 5959339.82,
+  "deadline_count": 13,
   "items": [
     {
-      "id": "BOE-B-2026-37925",
-      "title": "Anuncio de licitación de: Presidencia de la Gerencia de Infraestructuras y Equipamientos de Cultura O.A. Objeto: Obras de construcción de la fase 1 de un centro integrado de 6+12+16+6 unidades (infantil, primaria, secundaria, bachillerato) en la calle Cortadura del Valle (solar del Brull) de Ceuta. Expediente: 26/222 OB.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37925",
-      "value_eur": 26425836.08,
-      "deadline": "Hasta las 12:30 horas del 16 de febrero de 2027"
+      "id": "BOE-B-2026-38011",
+      "title": "Anuncio de licitación de: Secretaría General de la Agencia Estatal Consejo Superior de Investigaciones Científicas. Objeto: Servicio de seguros para los buques y gran equipamiento ROV (Vehículo Operado Remotamente) submarino de la Agencia Estatal Consejo Superior de Investigaciones Científicas. Expediente: LOT13/27.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38011",
+      "value_eur": 1745784.0,
+      "deadline": "Hasta las 14:00 horas del 23 de noviembre de 2026"
     },
     {
-      "id": "BOE-B-2026-37931",
-      "title": "Anuncio de licitación de: Junta de Contratación del Ministerio de Economía, Comercio y Empresa. Objeto: Servicios de desarrollo y gestión de los sistemas de información que soportan las actividades de las funciones de análisis de la situación de solvencia, financiera y control de la actividad de los supervisados que desempeña la Dirección General de Seguros y Fondos de Pensiones. Expediente: 202600000027.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37931",
-      "value_eur": 6945866.68,
-      "deadline": "Hasta las 14:00 horas del 25 de noviembre de 2026 (se aconseja presentar la oferta dentro del horario de soporte de PCSP: L-J 9h a 19h; V 9h a 15h (Se excluyen los días festivos de acuerdo con el calendario laboral))"
+      "id": "BOE-B-2026-37974",
+      "title": "Anuncio de licitación de: Dirección de Gestión Económica de la Jefatura de Apoyo Logístico de la Armada. Objeto: Suministro gas licuado propano a granel para las Instalaciones de la Armada. Expediente: 2026/AR40U/00002928E.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37974",
+      "value_eur": 853719.02,
+      "deadline": "Hasta las 23:59 horas del 10 de diciembre de 2026"
     },
     {
-      "id": "BOE-B-2026-37926",
-      "title": "Anuncio de licitación de: Gerencia de Infraestructuras y Equipamientos de Cultura O.A. Objeto: Servicio para la dirección facultativa completa y coordinación de seguridad y salud en fase de ejecución de las obras de construcción de la fase 1 de un centro integrado de 6+12+16+6 unidades (infantil, primaria, secundaria, bachillerato) en la calle Cortadura del Valle (solar del Brull) de Ceuta. Expediente: 26/223 SE.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37926",
-      "value_eur": 1395000.0,
-      "deadline": "Hasta las 12:30 horas del 9 de febrero de 2027"
+      "id": "BOE-B-2026-38029",
+      "title": "Anuncio de licitación de: Comisión Nacional del Mercado de Valores. Objeto: servicio de conducción de los vehículos oficiales de la Comisión Nacional del Mercado de Valores. Expediente: 01/27.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38029",
+      "value_eur": 783200.0,
+      "deadline": "Hasta las 10:00 horas del 14 de diciembre de 2026"
     }
   ]
 }
