@@ -1,31 +1,31 @@
 {
-  "boe_date": "20261119",
-  "generated_at": "2026-11-19T17:29:51.369245+01:00",
-  "count": 13,
-  "known_value_count": 12,
-  "total_value_eur": 5959339.82,
-  "deadline_count": 13,
+  "boe_date": "20261120",
+  "generated_at": "2026-11-20T17:03:19.558700+01:00",
+  "count": 8,
+  "known_value_count": 7,
+  "total_value_eur": 28528815.91,
+  "deadline_count": 8,
   "items": [
     {
-      "id": "BOE-B-2026-38011",
-      "title": "Anuncio de licitación de: Secretaría General de la Agencia Estatal Consejo Superior de Investigaciones Científicas. Objeto: Servicio de seguros para los buques y gran equipamiento ROV (Vehículo Operado Remotamente) submarino de la Agencia Estatal Consejo Superior de Investigaciones Científicas. Expediente: LOT13/27.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38011",
-      "value_eur": 1745784.0,
-      "deadline": "Hasta las 14:00 horas del 23 de noviembre de 2026"
+      "id": "BOE-B-2026-38113",
+      "title": "Anuncio de licitación de: Secretaría de Estado de Justicia. Objeto: Obras de construcción de Nuevo Edificio de Juzgados en Ciudadela de Menorca (Islas Baleares). Expediente: AOB/2026/135.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38113",
+      "value_eur": 20701858.9,
+      "deadline": "Hasta las 14:00 horas del 22 de diciembre de 2026"
     },
     {
-      "id": "BOE-B-2026-37974",
-      "title": "Anuncio de licitación de: Dirección de Gestión Económica de la Jefatura de Apoyo Logístico de la Armada. Objeto: Suministro gas licuado propano a granel para las Instalaciones de la Armada. Expediente: 2026/AR40U/00002928E.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37974",
-      "value_eur": 853719.02,
-      "deadline": "Hasta las 23:59 horas del 10 de diciembre de 2026"
+      "id": "BOE-B-2026-38150",
+      "title": "Anuncio de licitación de: Dirección General de Tráfico. Objeto: Contratación de servicio de limpieza en las dependencias oficiales de las Jefaturas Provinciales de las comunidades autónomas de Aragón y Castilla León. Expediente: 2DGT2AP00052.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38150",
+      "value_eur": 5822670.0,
+      "deadline": "Hasta las 14:00 horas del 18 de enero de 2027"
     },
     {
-      "id": "BOE-B-2026-38029",
-      "title": "Anuncio de licitación de: Comisión Nacional del Mercado de Valores. Objeto: servicio de conducción de los vehículos oficiales de la Comisión Nacional del Mercado de Valores. Expediente: 01/27.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38029",
-      "value_eur": 783200.0,
-      "deadline": "Hasta las 10:00 horas del 14 de diciembre de 2026"
+      "id": "BOE-B-2026-38156",
+      "title": "Anuncio de licitación de: Subdirección General de Planificacion y Gestion de Infraestructuras y Medios para la Seguridad. Objeto: Adquisición de un mínimo de SEIS (6) vehículos tipo FURGÓN, categoría N2, de motorización de combustión y con tracción 4x4, transformados en vehículos operativos denominados \"Gladius\", con destino a la Agrupación de Reserva y Seguridad de la Guardia Civil. Expediente: X260325GBGEE.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38156",
+      "value_eur": 661152.0,
+      "deadline": "Hasta las 10:55 horas del 5 de enero de 2027"
     }
   ]
 }
