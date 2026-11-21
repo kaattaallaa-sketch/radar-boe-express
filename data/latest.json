@@ -1,31 +1,9 @@
 {
-  "boe_date": "20261120",
-  "generated_at": "2026-11-20T17:03:19.558700+01:00",
-  "count": 8,
-  "known_value_count": 7,
-  "total_value_eur": 28528815.91,
-  "deadline_count": 8,
-  "items": [
-    {
-      "id": "BOE-B-2026-38113",
-      "title": "Anuncio de licitación de: Secretaría de Estado de Justicia. Objeto: Obras de construcción de Nuevo Edificio de Juzgados en Ciudadela de Menorca (Islas Baleares). Expediente: AOB/2026/135.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38113",
-      "value_eur": 20701858.9,
-      "deadline": "Hasta las 14:00 horas del 22 de diciembre de 2026"
-    },
-    {
-      "id": "BOE-B-2026-38150",
-      "title": "Anuncio de licitación de: Dirección General de Tráfico. Objeto: Contratación de servicio de limpieza en las dependencias oficiales de las Jefaturas Provinciales de las comunidades autónomas de Aragón y Castilla León. Expediente: 2DGT2AP00052.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38150",
-      "value_eur": 5822670.0,
-      "deadline": "Hasta las 14:00 horas del 18 de enero de 2027"
-    },
-    {
-      "id": "BOE-B-2026-38156",
-      "title": "Anuncio de licitación de: Subdirección General de Planificacion y Gestion de Infraestructuras y Medios para la Seguridad. Objeto: Adquisición de un mínimo de SEIS (6) vehículos tipo FURGÓN, categoría N2, de motorización de combustión y con tracción 4x4, transformados en vehículos operativos denominados \"Gladius\", con destino a la Agrupación de Reserva y Seguridad de la Guardia Civil. Expediente: X260325GBGEE.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38156",
-      "value_eur": 661152.0,
-      "deadline": "Hasta las 10:55 horas del 5 de enero de 2027"
-    }
-  ]
+  "boe_date": "20261121",
+  "generated_at": "2026-11-21T16:15:41.252045+01:00",
+  "count": 0,
+  "known_value_count": 0,
+  "total_value_eur": 0,
+  "deadline_count": 0,
+  "items": []
 }
