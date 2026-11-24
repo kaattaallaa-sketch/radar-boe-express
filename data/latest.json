@@ -1,31 +1,31 @@
 {
-  "boe_date": "20261123",
-  "generated_at": "2026-11-23T20:10:22.578560+01:00",
-  "count": 21,
-  "known_value_count": 20,
-  "total_value_eur": 204202081.59999996,
-  "deadline_count": 21,
+  "boe_date": "20261124",
+  "generated_at": "2026-11-24T19:49:43.050577+01:00",
+  "count": 7,
+  "known_value_count": 6,
+  "total_value_eur": 5654952.890000001,
+  "deadline_count": 7,
   "items": [
     {
-      "id": "BOE-B-2026-38642",
-      "title": "Anuncio de licitación de: Gerencia de Informática de la Seguridad Social. Objeto: Servicio de apoyo técnico, desarrollo y mantenimiento de sistemas de información de la Gerencia de Informática de la Seguridad Social que dan servicio a la Tesorería General de la Seguridad Social. Expediente: 2026/7029.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38642",
-      "value_eur": 130395528.96,
-      "deadline": "Hasta las 23:59 horas del 9 de diciembre de 2026"
+      "id": "BOE-B-2026-38763",
+      "title": "Anuncio de licitación de: Presidencia de la Confederación Hidrográfica del Tajo. Objeto: Conservación y mantenimiento del patrimonio agronómico y forestal de la Confederación Hidrográfica del Tajo. Expediente: 26DT0057/NG.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38763",
+      "value_eur": 2420773.25,
+      "deadline": "Hasta las 14:00 horas del 12 de enero de 2027 (consultas adicionales de carácter administrativo: contratacion@chtajo.es)"
     },
     {
-      "id": "BOE-B-2026-38595",
-      "title": "Anuncio de licitación de: ADIF -Consejo de Administración. Objeto: Perfilado de carril en líneas de Alta Velocidad en explotación. Expediente: 2.26/21506.0054.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38595",
-      "value_eur": 35853483.65,
-      "deadline": "Hasta las 11:00 horas del 12 de enero de 2027"
+      "id": "BOE-B-2026-38736",
+      "title": "Anuncio de licitación de: Junta de Contratación de la Secretaría de Estado de Justicia. Objeto: Servicio integral de gestión documental en el ámbito de la Gerencia Territorial de Órganos Centrales. Expediente: ASE/2026/143.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38736",
+      "value_eur": 1865664.78,
+      "deadline": "Hasta las 14:00 horas del 22 de diciembre de 2026"
     },
     {
-      "id": "BOE-B-2026-38598",
-      "title": "Anuncio de licitación de: ADIF -Consejo de Administración. Objeto: Asistencia técnica para la coordinación en materia de seguridad y salud durante la ejecución de los trabajos de mantenimiento y las obras de inversión en las líneas de red convencional incluidas en los ámbitos territoriales noreste y este. 2 lotes. Expediente: 4.26/27520.0057.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38598",
-      "value_eur": 16237652.48,
-      "deadline": "Hasta las 10:00 horas del 14 de diciembre de 2026"
+      "id": "BOE-B-2026-38741",
+      "title": "Anuncio de licitación de: Jefatura de la Sección Económico Administrativa 22 - Base Aérea de Torrejón (Agrupación de Base). Objeto: 20269041 Suministro de polo camarero. Expediente: 2026/EA22/00002218E.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38741",
+      "value_eur": 540000.0,
+      "deadline": "Hasta las 23:59 horas del 22 de diciembre de 2026 (suministro de polo camarero)"
     }
   ]
 }
