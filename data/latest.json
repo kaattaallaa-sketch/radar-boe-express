@@ -1,31 +1,31 @@
 {
-  "boe_date": "20261126",
-  "generated_at": "2026-11-26T18:40:11.032674+01:00",
-  "count": 17,
+  "boe_date": "20261127",
+  "generated_at": "2026-11-27T18:24:27.630925+01:00",
+  "count": 18,
   "known_value_count": 16,
-  "total_value_eur": 158808337.3,
-  "deadline_count": 17,
+  "total_value_eur": 273967407.95000005,
+  "deadline_count": 18,
   "items": [
     {
-      "id": "BOE-B-2026-39006",
-      "title": "Anuncio de licitación de: Comité Ejecutivo de la Mancomunidad de los Canales del Taibilla. Objeto: Suministro de energía eléctrica período 2027-2028, en las instalaciones de la Mancomunidad de los Canales del Taibilla (Varios). Expediente: S-09/26-06.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-39006",
-      "value_eur": 123516720.3,
-      "deadline": "Hasta las 13:00 horas del 15 de diciembre de 2026"
+      "id": "BOE-B-2026-39138",
+      "title": "Anuncio de licitación de: Presidencia de la Confederación Hidrográfica del Guadalquivir. Objeto: Contrato de obras de adecuación de los sistemas de auscultación de las presas de la zona de Sevilla. Expediente: SE(DT)-6282.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-39138",
+      "value_eur": 229485259.0,
+      "deadline": "Hasta las 19:00 horas del 21 de enero de 2027 (la presentación de ofertas y solicitudes de participación se llevará a cabo utilizando medios electrónicos)"
     },
     {
-      "id": "BOE-B-2026-39005",
-      "title": "Anuncio de licitación de: Dirección General del Servicio Público de Empleo Estatal. Objeto: Mantenimiento de sistemas y equipos informáticos (hardware y software de base) en el Servicio Público de Empleo Estatal. Expediente: IPA 3/27.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-39005",
-      "value_eur": 11363391.43,
-      "deadline": "Hasta las 10:00 horas del 21 de diciembre de 2026 (la preparación y presentación de ofertas se realizará haciendo uso exclusivamente de la Herramienta que a tal efecto pone a disposición la Plataforma de Contratación del Sector Público a los licitadores. Recuerde no demorar el proceso de preparación y tenga en cuenta que el horario de soporte de la Plataforma es L-J de 9 a 19 y V de 9 a 15 en la dirección licitacionE@hacienda.gob.es)"
+      "id": "BOE-B-2026-39156",
+      "title": "Anuncio de licitación de: Gerencia de Informática de la Seguridad Social. Objeto: Servicios de seguridad de los sistemas de información de la Gerencia de Informática de la Seguridad Social. Expediente: 2026/7028.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-39156",
+      "value_eur": 22925795.06,
+      "deadline": "Hasta las 23:59 horas del 11 de diciembre de 2026"
     },
     {
-      "id": "BOE-B-2026-39011",
-      "title": "Anuncio de licitación de: Comité Ejecutivo de la Mancomunidad de los Canales del Taibilla. Objeto: Servicio de inspección y explotación de las instalaciones de distribución de diversos ramales del Área de Explotación 2027-2029 (VA/Varios). Expediente: V-10/26-04.",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-39011",
-      "value_eur": 5691258.48,
-      "deadline": "Hasta las 13:00 horas del 15 de diciembre de 2026"
+      "id": "BOE-B-2026-39118",
+      "title": "Anuncio de licitación de: Subdirección General de Contratación de Tecnologías de la Información y de las Comunicaciones (TIC). Objeto: Servicios de mantenimiento, evolución y operación del servicio de mensajería corporativa del Ministerio de Defensa (MENSADEF). Expediente: 2026/SP03032007/0000000707E.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-39118",
+      "value_eur": 5026756.24,
+      "deadline": "Hasta las 23:59 horas del 7 de diciembre de 2026"
     }
   ]
 }
